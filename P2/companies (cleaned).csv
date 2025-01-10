@@ -1,0 +1,2002 @@
+no,name,country,sales,sales_worth,profit,profit_worth,assets,assets_worth,market_value,market_value_worth
+1,JPMorganChase,United States,253,Billion,50,Billion,4091,Billion,588,Billion
+2,Berkshire Hathaway,United States,369,Billion,73,Billion,1070,Billion,899,Billion
+3,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,489,Billion,117,Billion,662,Billion,1919,Billion
+4,ICBC,China,224,Billion,50,Billion,6586,Billion,215,Billion
+5,Bank of America,United States,183,Billion,25,Billion,3274,Billion,307,Billion
+6,Amazon,United States,591,Billion,38,Billion,531,Billion,1922,Billion
+7,China Construction Bank,China,200,Billion,47,Billion,5404,Billion,188,Billion
+8,Microsoft,United States,237,Billion,86,Billion,484,Billion,3123,Billion
+9,Agricultural Bank of China,China,194,Billion,37,Billion,5833,Billion,171,Billion
+10,Alphabet,United States,318,Billion,82,Billion,407,Billion,2178,Billion
+11,Toyota Motor,Japan,312,Billion,34,Billion,595,Billion,275,Billion
+12,Apple,United States,382,Billion,100,Billion,337,Billion,2912,Billion
+13,Bank of China,China,173,Billion,32,Billion,4657,Billion,146,Billion
+14,ExxonMobil,United States,332,Billion,33,Billion,378,Billion,537,Billion
+15,HSBC Holdings,United Kingdom,145,Billion,22,Billion,3001,Billion,166,Billion
+16,Wells Fargo,United States,120,Billion,19,Billion,1959,Billion,213,Billion
+17,Shell Plc,United Kingdom,290,Billion,18,Billion,402,Billion,229,Billion
+18,PetroChina,China,399,Billion,23,Billion,388,Billion,178,Billion
+19,UnitedHealth Group,United States,380,Billion,15,Billion,284,Billion,483,Billion
+20,Walmart,United States,657,Billion,19,Billion,254,Billion,521,Billion
+21,Samsung Electronics,South Korea,202,Billion,15,Billion,350,Billion,388,Billion
+22,Chevron,United States,195,Billion,20,Billion,262,Billion,300,Billion
+23,Goldman Sachs Group,United States,117,Billion,9,Billion,1698,Billion,151,Billion
+24,Meta Platforms,United States,143,Billion,46,Billion,223,Billion,1197,Billion
+25,TotalEnergies,France,213,Billion,22,Billion,283,Billion,171,Billion
+26,Morgan Stanley,United States,100,Billion,10,Billion,1229,Billion,163,Billion
+27,RBC,Canada,90,Billion,11,Billion,1478,Billion,150,Billion
+28,Citigroup,United States,164,Billion,8,Billion,2433,Billion,122,Billion
+29,Ping An Insurance Group,China,136,Billion,12,Billion,1655,Billion,106,Billion
+30,China Mobile,Hong Kong,143,Billion,19,Billion,281,Billion,204,Billion
+31,Allianz,Germany,148,Billion,10,Billion,1057,Billion,114,Billion
+32,BNP Paribas,France,158,Billion,11,Billion,2863,Billion,89,Billion
+33,Verizon Communications,United States,134,Billion,11,Billion,380,Billion,169,Billion
+34,China Merchants Bank,China,71,Billion,20,Billion,1594,Billion,127,Billion
+35,UBS,Switzerland,81,Billion,29,Billion,1607,Billion,97,Billion
+36,Santander,Spain,143,Billion,12,Billion,1944,Billion,82,Billion
+37,AT&T,United States,122,Billion,14,Billion,399,Billion,125,Billion
+38,Tencent Holdings,China,86,Billion,18,Billion,228,Billion,472,Billion
+39,Mitsubishi UFJ Financial,Japan,74,Billion,10,Billion,2667,Billion,117,Billion
+40,Comcast,United States,122,Billion,15,Billion,264,Billion,154,Billion
+41,Alibaba Group,China,131,Billion,11,Billion,244,Billion,201,Billion
+42,Sinopec,China,415,Billion,9,Billion,290,Billion,107,Billion
+43,Volkswagen Group,Germany,349,Billion,16,Billion,672,Billion,66,Billion
+44,TD Bank Group,Canada,80,Billion,9,Billion,1430,Billion,102,Billion
+45,Johnson & Johnson,United States,90,Billion,18,Billion,172,Billion,372,Billion
+46,Taiwan Semiconductor,Taiwan,72,Billion,27,Billion,181,Billion,672,Billion
+47,BP,United Kingdom,203,Billion,9,Billion,275,Billion,104,Billion
+48,LVMH MoÃ«t Hennessy Louis Vuitton,France,93,Billion,16,Billion,159,Billion,424,Billion
+49,Reliance Industries,India,109,Billion,8,Billion,211,Billion,233,Billion
+50,NestlÃ©,Switzerland,104,Billion,13,Billion,150,Billion,272,Billion
+51,AXA Group,France,109,Billion,8,Billion,684,Billion,82,Billion
+52,Mercedes-Benz Group,Germany,164,Billion,14,Billion,289,Billion,77,Billion
+53,American Express,United States,70,Billion,9,Billion,269,Billion,175,Billion
+54,Petrobras,Brazil,99,Billion,22,Billion,213,Billion,93,Billion
+55,State Bank of India,India,72,Billion,8,Billion,807,Billion,88,Billion
+56,Bank of Communications,China,79,Billion,13,Billion,1983,Billion,59,Billion
+57,Postal Savings Bank Of China (PSBC),China,80,Billion,11,Billion,2260,Billion,58,Billion
+58,Tesla,United States,95,Billion,14,Billion,109,Billion,566,Billion
+59,Procter & Gamble,United States,84,Billion,15,Billion,120,Billion,396,Billion
+60,Stellantis,Netherlands,205,Billion,20,Billion,223,Billion,65,Billion
+61,BMW Group,Germany,168,Billion,12,Billion,275,Billion,66,Billion
+62,Deutsche Telekom,Germany,122,Billion,5,Billion,319,Billion,119,Billion
+63,Sumitomo Mitsui Financial,Japan,61,Billion,7,Billion,1951,Billion,81,Billion
+64,CVS Health,United States,361,Billion,7,Billion,250,Billion,72,Billion
+65,HDFC Bank,India,49,Billion,8,Billion,483,Billion,134,Billion
+66,BBVA-Banco Bilbao Vizcaya,Spain,75,Billion,9,Billion,866,Billion,64,Billion
+67,Sony,Japan,90,Billion,7,Billion,225,Billion,102,Billion
+68,Siemens,Germany,84,Billion,8,Billion,156,Billion,148,Billion
+69,Commonwealth Bank,Australia,39,Billion,7,Billion,871,Billion,135,Billion
+70,Life Insurance Corp. of India,India,98,Billion,5,Billion,561,Billion,74,Billion
+71,General Motors,United States,175,Billion,11,Billion,277,Billion,52,Billion
+72,Nippon Telegraph & Tel,Japan,93,Billion,9,Billion,196,Billion,82,Billion
+73,Credit Agricole,France,106,Billion,6,Billion,2419,Billion,48,Billion
+74,Broadcom,United States,39,Billion,12,Billion,178,Billion,647,Billion
+75,PepsiCo,United States,92,Billion,9,Billion,100,Billion,251,Billion
+76,The Home Depot,United States,152,Billion,15,Billion,79,Billion,341,Billion
+77,Oracle,United States,53,Billion,11,Billion,137,Billion,339,Billion
+78,Mitsubishi,Japan,135,Billion,7,Billion,155,Billion,89,Billion
+79,Roche Holding,Switzerland,65,Billion,13,Billion,108,Billion,208,Billion
+80,Equinor,Norway,103,Billion,10,Billion,137,Billion,83,Billion
+81,Elevance Health,United States,172,Billion,6,Billion,112,Billion,127,Billion
+82,CNOOC,Hong Kong,57,Billion,18,Billion,142,Billion,118,Billion
+83,Industrial Bank ,China,59,Billion,11,Billion,1419,Billion,51,Billion
+84,Intesa Sanpaolo Assicura,Italy,42,Billion,9,Billion,1006,Billion,75,Billion
+85,IBM,United States,62,Billion,8,Billion,137,Billion,155,Billion
+86,Chubb,Switzerland,52,Billion,9,Billion,212,Billion,111,Billion
+87,Itaú Unibanco Holding,Brazil,68,Billion,7,Billion,525,Billion,64,Billion
+88,Anheuser-Busch InBev,Belgium,59,Billion,5,Billion,221,Billion,138,Billion
+89,AbbVie,United States,54,Billion,6,Billion,149,Billion,294,Billion
+90,Cisco Systems,United States,55,Billion,12,Billion,101,Billion,195,Billion
+91,Honda Motor,Japan,141,Billion,8,Billion,197,Billion,54,Billion
+92,Bank of Nova Scotia,Canada,54,Billion,6,Billion,1043,Billion,59,Billion
+93,Hyundai Motor,South Korea,125,Billion,9,Billion,220,Billion,47,Billion
+94,Enel,Italy,96,Billion,5,Billion,210,Billion,75,Billion
+95,Cigna,United States,204,Billion,4,Billion,148,Billion,96,Billion
+96,Costco Wholesale,United States,249,Billion,7,Billion,66,Billion,353,Billion
+97,Munich Re,Germany,70,Billion,5,Billion,298,Billion,65,Billion
+98,Zurich Insurance Group,Switzerland,65,Billion,4,Billion,339,Billion,75,Billion
+99,Novartis,Switzerland,49,Billion,15,Billion,94,Billion,201,Billion
+100,Coca-Cola,United States,46,Billion,11,Billion,99,Billion,272,Billion
+101,GE Aerospace,United States,70,Billion,4,Billion,164,Billion,175,Billion
+102,Caterpillar,United States,67,Billion,11,Billion,84,Billion,174,Billion
+103,John Deere,United States,59,Billion,10,Billion,106,Billion,111,Billion
+104,Bank of Montreal,Canada,54,Billion,4,Billion,992,Billion,69,Billion
+105,Mizuho Financial,Japan,55,Billion,5,Billion,1841,Billion,51,Billion
+106,AIRBUS,France,72,Billion,4,Billion,133,Billion,137,Billion
+107,Intel,United States,55,Billion,4,Billion,193,Billion,136,Billion
+108,Mitsui,Japan,92,Billion,7,Billion,112,Billion,77,Billion
+109,ConocoPhillips,United States,55,Billion,11,Billion,95,Billion,142,Billion
+110,China State Construction Engineering,China,317,Billion,8,Billion,410,Billion,33,Billion
+111,NVIDIA,United States,61,Billion,30,Billion,66,Billion,2312,Billion
+112,Rio Tinto,United Kingdom,54,Billion,10,Billion,104,Billion,119,Billion
+113,CITIC,Hong Kong,96,Billion,8,Billion,1598,Billion,32,Billion
+114,RTX,United States,71,Billion,4,Billion,160,Billion,139,Billion
+115,Glencore International,Switzerland,218,Billion,4,Billion,124,Billion,77,Billion
+116,BHP Group,Australia,55,Billion,7,Billion,100,Billion,152,Billion
+117,China Life Insurance,China,52,Billion,7,Billion,818,Billion,47,Billion
+118,US Bancorp,United States,41,Billion,5,Billion,684,Billion,65,Billion
+119,Hon Hai Precision ,Taiwan,192,Billion,5,Billion,118,Billion,73,Billion
+120,Iberdrola,Spain,51,Billion,7,Billion,164,Billion,84,Billion
+121,AstraZeneca,United Kingdom,48,Billion,6,Billion,102,Billion,238,Billion
+122,Sanofi ,France,47,Billion,6,Billion,140,Billion,122,Billion
+123,Unilever,United Kingdom,65,Billion,7,Billion,83,Billion,217,Billion
+124,Ford Motor,United States,178,Billion,4,Billion,274,Billion,49,Billion
+125,Capital One,United States,51,Billion,5,Billion,482,Billion,54,Billion
+126,NAB - National Australia Bank,Australia,39,Billion,5,Billion,699,Billion,72,Billion
+127,Apollo Global Management,United States,35,Billion,5,Billion,334,Billion,90,Billion
+128,Visa,United States,34,Billion,18,Billion,92,Billion,561,Billion
+129,UniCredit,Italy,27,Billion,11,Billion,875,Billion,66,Billion
+130,Contemporary Amperex Technology,China,54,Billion,6,Billion,101,Billion,123,Billion
+131,American International Group,United States,49,Billion,5,Billion,476,Billion,54,Billion
+132,ANZ Group Holdings,Australia,41,Billion,5,Billion,711,Billion,57,Billion
+133,VINCI,France,75,Billion,5,Billion,131,Billion,72,Billion
+134,China Citic Bank,China,54,Billion,9,Billion,1255,Billion,35,Billion
+135,Thermo Fisher Scientific,United States,43,Billion,6,Billion,97,Billion,227,Billion
+136,Charles Schwab,United States,26,Billion,5,Billion,469,Billion,140,Billion
+137,Progressive,United States,65,Billion,6,Billion,89,Billion,123,Billion
+138,DBS,Singapore,26,Billion,8,Billion,561,Billion,75,Billion
+139,Marathon Petroleum,United States,147,Billion,8,Billion,86,Billion,63,Billion
+140,PNC Financial Services,United States,32,Billion,5,Billion,566,Billion,64,Billion
+141,Generali Group,Italy,75,Billion,4,Billion,555,Billion,42,Billion
+142,ICICI Bank,India,29,Billion,5,Billion,284,Billion,95,Billion
+143,Itochu,Japan,97,Billion,6,Billion,96,Billion,67,Billion
+144,Westpac Banking Group,Australia,35,Billion,4,Billion,687,Billion,62,Billion
+145,United Parcel Service,United States,90,Billion,6,Billion,68,Billion,128,Billion
+146,Deutsche Bank,Germany,68,Billion,5,Billion,1437,Billion,34,Billion
+147,Canadian Imperial Bank,Canada,43,Billion,5,Billion,727,Billion,46,Billion
+148,China Shenhua Energy,China,48,Billion,9,Billion,91,Billion,91,Billion
+149,Tokio Marine Holdings,Japan,48,Billion,4,Billion,212,Billion,62,Billion
+150,NextEra Energy,United States,24,Billion,8,Billion,180,Billion,156,Billion
+151,Eni,Italy,97,Billion,4,Billion,158,Billion,50,Billion
+152,BYD,China,83,Billion,4,Billion,94,Billion,83,Billion
+153,ING Group,Netherlands,25,Billion,8,Billion,1112,Billion,56,Billion
+154,Lloyds Banking Group,United Kingdom,33,Billion,6,Billion,1124,Billion,44,Billion
+155,Walt Disney,United States,89,Billion,2,Billion,195,Billion,189,Billion
+156,Phillips 66,United States,149,Billion,6,Billion,76,Billion,62,Billion
+157,MetLife,United States,68,Billion,2,Billion,678,Billion,53,Billion
+158,Salesforce,United States,35,Billion,4,Billion,103,Billion,277,Billion
+159,Shanghai Pudong Development,China,50,Billion,5,Billion,1253,Billion,33,Billion
+160,Banco do Brasil,Brazil,62,Billion,6,Billion,443,Billion,31,Billion
+161,AIA Group,Hong Kong,28,Billion,4,Billion,279,Billion,94,Billion
+162,Merck & Co.,United States,61,Billion,2,Billion,106,Billion,332,Billion
+163,Abbott Laboratories,United States,40,Billion,6,Billion,73,Billion,181,Billion
+164,China Telecom,China,71,Billion,4,Billion,117,Billion,52,Billion
+165,Dell Technologies,United States,89,Billion,3,Billion,82,Billion,107,Billion
+166,Barclays,United Kingdom,32,Billion,5,Billion,1992,Billion,41,Billion
+167,Linde,United Kingdom,33,Billion,6,Billion,80,Billion,208,Billion
+168,FedEx,United States,88,Billion,4,Billion,86,Billion,63,Billion
+169,Hitachi,Japan,67,Billion,4,Billion,81,Billion,86,Billion
+170,Accenture,Ireland,65,Billion,7,Billion,51,Billion,191,Billion
+171,Lockheed Martin,United States,70,Billion,7,Billion,55,Billion,112,Billion
+172,L'Oréal,France,45,Billion,7,Billion,57,Billion,260,Billion
+173,Nordea Bank,Finland,29,Billion,6,Billion,653,Billion,44,Billion
+174,Eli Lilly,United States,36,Billion,6,Billion,64,Billion,732,Billion
+175,KKR,United States,23,Billion,4,Billion,340,Billion,93,Billion
+176,Philip Morris International,United States,36,Billion,8,Billion,65,Billion,155,Billion
+177,NatWest Group,United Kingdom,34,Billion,5,Billion,881,Billion,36,Billion
+178,Valero Energy,United States,140,Billion,7,Billion,63,Billion,54,Billion
+179,Enbridge,Canada,32,Billion,4,Billion,141,Billion,78,Billion
+180,JD.com,China,154,Billion,4,Billion,83,Billion,56,Billion
+181,Bank of New York Mellon,United States,36,Billion,3,Billion,435,Billion,45,Billion
+182,Vale,Brazil,42,Billion,8,Billion,92,Billion,55,Billion
+183,GSK,United Kingdom,39,Billion,6,Billion,74,Billion,92,Billion
+184,Prudential Financial,United States,59,Billion,2,Billion,726,Billion,44,Billion
+185,Lowe's,United States,86,Billion,8,Billion,43,Billion,132,Billion
+186,Charter Communications,United States,55,Billion,5,Billion,148,Billion,39,Billion
+187,Honeywell International,United States,37,Billion,6,Billion,66,Billion,134,Billion
+188,McKesson,United States,309,Billion,3,Billion,67,Billion,73,Billion
+189,Duke Energy,United States,30,Billion,3,Billion,179,Billion,80,Billion
+190,Qualcomm,United States,36,Billion,8,Billion,53,Billion,216,Billion
+191,HCA Healthcare,United States,67,Billion,6,Billion,57,Billion,85,Billion
+192,Medtronic,Ireland,32,Billion,4,Billion,91,Billion,114,Billion
+193,Amgen,United States,29,Billion,4,Billion,93,Billion,168,Billion
+194,ENGIE ,France,89,Billion,2,Billion,215,Billion,42,Billion
+195,Southern Company,United States,25,Billion,4,Billion,140,Billion,87,Billion
+196,CaixaBank,Spain,25,Billion,5,Billion,671,Billion,39,Billion
+197,Manulife,Canada,26,Billion,3,Billion,630,Billion,48,Billion
+198,Danaher,United States,26,Billion,4,Billion,83,Billion,197,Billion
+199,Mondelez International,United States,36,Billion,4,Billion,78,Billion,96,Billion
+200,Schneider Electric,France,39,Billion,4,Billion,65,Billion,139,Billion
+201,Target,United States,107,Billion,4,Billion,55,Billion,74,Billion
+202,Deutsche Post,Germany,88,Billion,4,Billion,74,Billion,51,Billion
+203,KDDI,Japan,40,Billion,4,Billion,94,Billion,58,Billion
+204,National Grid,United Kingdom,25,Billion,9,Billion,115,Billion,54,Billion
+205,Midea Group,China,53,Billion,5,Billion,69,Billion,66,Billion
+206,Novo Nordisk,Denmark,36,Billion,13,Billion,43,Billion,581,Billion
+207,Oil & Natural Gas,India,78,Billion,5,Billion,81,Billion,42,Billion
+208,América Móvil,Mexico,47,Billion,3,Billion,96,Billion,61,Billion
+209,BlackRock,United States,19,Billion,6,Billion,124,Billion,121,Billion
+210,PDD Holdings,Ireland,35,Billion,8,Billion,49,Billion,194,Billion
+211,PICC,China,77,Billion,3,Billion,214,Billion,30,Billion
+212,Netflix,United States,35,Billion,6,Billion,49,Billion,268,Billion
+213,Brookfield Corporation,Canada,102,Billion,1,Billion,492,Billion,73,Billion
+214,Qatar National Bank,Qatar,32,Billion,4,Billion,340,Billion,36,Billion
+215,International Holding Company,United Arab Emirates,17,Billion,8,Billion,92,Billion,240,Billion
+216,Travelers,United States,43,Billion,3,Billion,118,Billion,50,Billion
+217,Volvo Group,Sweden,52,Billion,5,Billion,67,Billion,54,Billion
+218,Union Pacific,United States,24,Billion,6,Billion,67,Billion,150,Billion
+219,Oversea-Chinese Banking,Singapore,19,Billion,5,Billion,441,Billion,48,Billion
+220,Swiss Re ,Switzerland,49,Billion,3,Billion,174,Billion,35,Billion
+221,China Pacific Insurance,China,47,Billion,4,Billion,332,Billion,27,Billion
+222,McDonald's,United States,26,Billion,9,Billion,54,Billion,196,Billion
+223,Banco Bradesco,Brazil,61,Billion,3,Billion,391,Billion,28,Billion
+224,Centene,United States,156,Billion,3,Billion,83,Billion,42,Billion
+225,PayPal,United States,30,Billion,4,Billion,83,Billion,67,Billion
+226,Japan Post Holdings,Japan,82,Billion,2,Billion,1974,Billion,28,Billion
+227,Standard Chartered,United Kingdom,40,Billion,3,Billion,813,Billion,25,Billion
+228,China Everbright Bank,China,41,Billion,6,Billion,954,Billion,20,Billion
+229,Suncor Energy,Canada,37,Billion,6,Billion,66,Billion,52,Billion
+230,SAP,Germany,35,Billion,2,Billion,79,Billion,225,Billion
+231,Mastercard,United States,26,Billion,12,Billion,43,Billion,428,Billion
+232,The Saudi National Bank,Saudi Arabia,16,Billion,5,Billion,286,Billion,56,Billion
+233,China Resources Land,Hong Kong,35,Billion,4,Billion,168,Billion,30,Billion
+234,Delta Air Lines,United States,59,Billion,5,Billion,75,Billion,34,Billion
+235,KIA,South Korea,78,Billion,7,Billion,62,Billion,33,Billion
+236,ASML Holding,Netherlands,28,Billion,8,Billion,42,Billion,365,Billion
+237,General Dynamics,United States,43,Billion,3,Billion,55,Billion,82,Billion
+238,Daimler Truck Holding,Germany,61,Billion,4,Billion,80,Billion,34,Billion
+239,Nike,United States,52,Billion,5,Billion,37,Billion,139,Billion
+240,United Overseas Bank,Singapore,20,Billion,4,Billion,397,Billion,38,Billion
+241,KBC Group,Belgium,30,Billion,3,Billion,388,Billion,30,Billion
+242,First Abu Dhabi Bank,United Arab Emirates,21,Billion,4,Billion,336,Billion,37,Billion
+243,PTT ,Thailand,90,Billion,3,Billion,100,Billion,27,Billion
+244,Canadian Natural Resources,Canada,26,Billion,6,Billion,56,Billion,83,Billion
+245,Aflac,United States,19,Billion,5,Billion,125,Billion,50,Billion
+246,Dai-ichi Life Insurance,Japan,66,Billion,2,Billion,446,Billion,23,Billion
+247,Occidental Petroleum,United States,27,Billion,4,Billion,74,Billion,56,Billion
+248,China Minsheng Bank,China,44,Billion,5,Billion,1069,Billion,17,Billion
+249,Société Générale,France,85,Billion,2,Billion,1717,Billion,21,Billion
+250,KB Financial Group,South Korea,37,Billion,3,Billion,544,Billion,23,Billion
+251,Inditex,Spain,39,Billion,6,Billion,36,Billion,146,Billion
+252,Al Rajhi Bank,Saudi Arabia,14,Billion,4,Billion,223,Billion,86,Billion
+253,MS&AD Insurance,Japan,43,Billion,3,Billion,183,Billion,28,Billion
+254,Air Liquide,France,30,Billion,3,Billion,53,Billion,106,Billion
+255,Fiserv,United States,19,Billion,3,Billion,93,Billion,89,Billion
+256,China Railway Group,China,178,Billion,5,Billion,258,Billion,15,Billion
+257,Orange,France,48,Billion,2,Billion,126,Billion,31,Billion
+258,Safran,France,26,Billion,4,Billion,56,Billion,94,Billion
+259,Indian Oil,India,94,Billion,5,Billion,58,Billion,28,Billion
+260,Emirates NBD,United Arab Emirates,20,Billion,6,Billion,235,Billion,29,Billion
+261,EssilorLuxottica,France,28,Billion,3,Billion,67,Billion,103,Billion
+262,Cencora,United States,277,Billion,2,Billion,64,Billion,44,Billion
+263,SLB,United States,34,Billion,4,Billion,48,Billion,70,Billion
+264,Saint-Gobain,France,52,Billion,3,Billion,63,Billion,44,Billion
+265,Danske Bank,Denmark,26,Billion,3,Billion,537,Billion,25,Billion
+266,Macquarie Group,Australia,20,Billion,2,Billion,264,Billion,47,Billion
+267,Zijin Mining Group,China,40,Billion,3,Billion,49,Billion,63,Billion
+268,TJX Cos,United States,54,Billion,5,Billion,30,Billion,114,Billion
+269,Banorte,Mexico,27,Billion,3,Billion,144,Billion,30,Billion
+270,Kweichow Moutai,China,19,Billion,11,Billion,40,Billion,298,Billion
+271,Fubon Financial,Taiwan,27,Billion,2,Billion,361,Billion,30,Billion
+272,SAIC Motor,China,103,Billion,2,Billion,133,Billion,23,Billion
+273,Automatic Data Processing,United States,19,Billion,4,Billion,64,Billion,103,Billion
+274,Kraft Heinz Company,United States,27,Billion,3,Billion,90,Billion,44,Billion
+275,Holcim,Switzerland,30,Billion,3,Billion,63,Billion,49,Billion
+276,ABB,Switzerland,32,Billion,4,Billion,41,Billion,97,Billion
+277,EOG Resources,United States,24,Billion,7,Billion,45,Billion,75,Billion
+278,Applied Materials,United States,27,Billion,7,Billion,32,Billion,176,Billion
+279,E.ON,Germany,90,Billion,1,Billion,123,Billion,36,Billion
+280,Denso,Japan,49,Billion,2,Billion,60,Billion,49,Billion
+281,DNB Bank,Norway,19,Billion,4,Billion,359,Billion,29,Billion
+282,Archer Daniels Midland,United States,92,Billion,3,Billion,55,Billion,31,Billion
+283,Marsh McLennan,United States,23,Billion,4,Billion,48,Billion,104,Billion
+284,Tata Motors,India,53,Billion,4,Billion,44,Billion,44,Billion
+285,Sumitomo,Japan,48,Billion,3,Billion,73,Billion,32,Billion
+286,Paccar,United States,35,Billion,5,Billion,40,Billion,56,Billion
+287,Fairfax Financial,Canada,38,Billion,4,Billion,81,Billion,27,Billion
+288,PG&E,United States,24,Billion,2,Billion,128,Billion,40,Billion
+289,SEB AB,Sweden,18,Billion,4,Billion,386,Billion,29,Billion
+290,Allstate,United States,59,Billion,1,Billion,97,Billion,45,Billion
+291,Kroger,United States,150,Billion,2,Billion,51,Billion,39,Billion
+292,Erste Group Bank,Austria,26,Billion,3,Billion,370,Billion,21,Billion
+293,Axis Bank,India,17,Billion,3,Billion,182,Billion,42,Billion
+294,Humana,United States,109,Billion,2,Billion,50,Billion,43,Billion
+295,Ameriprise Financial,United States,17,Billion,3,Billion,180,Billion,43,Billion
+296,Marubeni,Japan,50,Billion,3,Billion,59,Billion,32,Billion
+297,Bank Of Jiangsu,China,21,Billion,4,Billion,508,Billion,21,Billion
+298,CRH,Ireland,35,Billion,3,Billion,46,Billion,57,Billion
+299,China Unicom,Hong Kong,53,Billion,3,Billion,93,Billion,25,Billion
+300,Sun Life Financial,Canada,23,Billion,2,Billion,247,Billion,30,Billion
+301,American Electric,United States,20,Billion,3,Billion,98,Billion,49,Billion
+302,Banco Btg Pactual,Brazil,17,Billion,2,Billion,113,Billion,79,Billion
+303,Northrop Grumman,United States,40,Billion,2,Billion,48,Billion,70,Billion
+304,Shinhan Financial Group,South Korea,29,Billion,3,Billion,527,Billion,19,Billion
+305,Couche Tard,Canada,68,Billion,3,Billion,36,Billion,53,Billion
+306,Xiaomi  ,China,38,Billion,3,Billion,46,Billion,64,Billion
+307,CK Hutchison,Hong Kong,35,Billion,3,Billion,148,Billion,21,Billion
+308,Bank Rakyat Indonesia (BRI),Indonesia,15,Billion,4,Billion,126,Billion,47,Billion
+309,Koç Holding,Turkey,67,Billion,3,Billion,97,Billion,19,Billion
+310,"Merck KGaA, Darmstadt, Germany and its affiliates",Germany,23,Billion,3,Billion,54,Billion,79,Billion
+311,Commerzbank,Germany,26,Billion,3,Billion,596,Billion,20,Billion
+312,Meituan ,China,39,Billion,2,Billion,42,Billion,100,Billion
+313,Seven & I Holdings,Japan,80,Billion,2,Billion,71,Billion,34,Billion
+314,Diageo,United Kingdom,20,Billion,4,Billion,47,Billion,79,Billion
+315,Eaton,Ireland,24,Billion,3,Billion,39,Billion,132,Billion
+316,Cathay Financial,Taiwan,29,Billion,2,Billion,417,Billion,26,Billion
+317,Ecopetrol,Colombia,32,Billion,4,Billion,75,Billion,25,Billion
+318,Talanx,Germany,54,Billion,2,Billion,180,Billion,20,Billion
+319,Starbucks,United States,37,Billion,4,Billion,29,Billion,88,Billion
+320,Altria Group,United States,21,Billion,9,Billion,37,Billion,79,Billion
+321,Exelon,United States,22,Billion,2,Billion,103,Billion,39,Billion
+322,D.R. Horton,United States,37,Billion,5,Billion,34,Billion,50,Billion
+323,National Bank of Canada,Canada,18,Billion,3,Billion,325,Billion,29,Billion
+324,Discover Financial Services,United States,22,Billion,2,Billion,153,Billion,31,Billion
+325,Nippon Steel ,Japan,61,Billion,4,Billion,71,Billion,19,Billion
+326,Royal Ahold Delhaize N.V.,Netherlands,96,Billion,2,Billion,55,Billion,30,Billion
+327,Lennar,United States,35,Billion,4,Billion,39,Billion,46,Billion
+328,Stryker,United States,21,Billion,3,Billion,39,Billion,128,Billion
+329,Richemont,Switzerland,22,Billion,3,Billion,46,Billion,94,Billion
+330,Huaxia Bank,China,25,Billion,4,Billion,606,Billion,15,Billion
+331,Power Corp of Canada,Canada,31,Billion,2,Billion,560,Billion,19,Billion
+332,Repsol ,Spain,64,Billion,3,Billion,68,Billion,20,Billion
+333,Bank of Ningbo,China,16,Billion,4,Billion,400,Billion,24,Billion
+334,Gree Electric Appliances,China,28,Billion,4,Billion,53,Billion,32,Billion
+335,Cenovus Energy,Canada,40,Billion,3,Billion,41,Billion,38,Billion
+336,Texas Instruments,United States,17,Billion,6,Billion,35,Billion,178,Billion
+337,RWE Group,Germany,28,Billion,2,Billion,112,Billion,28,Billion
+338,Constellation Energy,United States,22,Billion,2,Billion,52,Billion,67,Billion
+339,MÃ¸ller-Maersk,Denmark,49,Billion,2,Billion,82,Billion,26,Billion
+340,Renault,France,57,Billion,2,Billion,135,Billion,16,Billion
+341,Nissan Motor,Japan,88,Billion,3,Billion,131,Billion,13,Billion
+342,Panasonic,Japan,59,Billion,3,Billion,62,Billion,20,Billion
+343,Advanced Micro Devices,United States,23,Billion,1,Billion,68,Billion,266,Billion
+344,Hartford Financial Services,United States,25,Billion,3,Billion,71,Billion,31,Billion
+345,Adobe,United States,20,Billion,5,Billion,29,Billion,217,Billion
+346,Sompo,Japan,32,Billion,3,Billion,102,Billion,20,Billion
+347,Uber,United States,39,Billion,1,Billion,40,Billion,137,Billion
+348,Bank of Beijing,China,19,Billion,4,Billion,539,Billion,17,Billion
+349,Vodafone,United Kingdom,40,Billion,1,Billion,156,Billion,27,Billion
+350,China Railway Construction,China,158,Billion,4,Billion,237,Billion,10,Billion
+351,Poly Developments & Holdings Group,China,48,Billion,2,Billion,197,Billion,19,Billion
+352,Japan Tobacco,Japan,20,Billion,3,Billion,47,Billion,50,Billion
+353,Freeport-McMoRan,United States,24,Billion,2,Billion,54,Billion,78,Billion
+354,Fannie Mae,United States,143,Billion,18,Billion,4324,Billion,2,Billion
+355,Nucor,United States,34,Billion,4,Billion,34,Billion,41,Billion
+356,Booking Holdings,United States,22,Billion,5,Billion,28,Billion,126,Billion
+357,Canadian National Railway,Canada,14,Billion,4,Billion,54,Billion,81,Billion
+358,Corebridge Financial,United States,21,Billion,2,Billion,358,Billion,19,Billion
+359,Tesco,United Kingdom,85,Billion,2,Billion,60,Billion,28,Billion
+360,United Airlines Holdings,United States,55,Billion,3,Billion,72,Billion,18,Billion
+361,BAE Systems,United Kingdom,29,Billion,2,Billion,41,Billion,52,Billion
+362,HP,United States,53,Billion,3,Billion,36,Billion,31,Billion
+363,S&P Global,United States,13,Billion,3,Billion,61,Billion,138,Billion
+364,Cosco Shipping,China,25,Billion,3,Billion,65,Billion,26,Billion
+365,Freddie Mac,United States,111,Billion,11,Billion,3287,Billion,962,Million
+366,Sempra,United States,14,Billion,3,Billion,90,Billion,50,Billion
+367,China Communications Construction,China,107,Billion,3,Billion,239,Billion,10,Billion
+368,Kering,France,21,Billion,3,Billion,46,Billion,45,Billion
+369,State Street,United States,19,Billion,2,Billion,338,Billion,24,Billion
+370,Saudi Telecom,Saudi Arabia,20,Billion,4,Billion,43,Billion,51,Billion
+371,China Yangtze Power,China,11,Billion,4,Billion,79,Billion,87,Billion
+372,NTPC,India,21,Billion,2,Billion,55,Billion,43,Billion
+373,Bank Mandiri,Indonesia,12,Billion,4,Billion,137,Billion,38,Billion
+374,Aviva,United Kingdom,43,Billion,1,Billion,403,Billion,17,Billion
+375,Swedbank,Sweden,14,Billion,3,Billion,288,Billion,23,Billion
+376,Baidu,China,19,Billion,3,Billion,57,Billion,41,Billion
+377,First Citizens Bank (NC),United States,15,Billion,3,Billion,218,Billion,26,Billion
+378,Svenska Handelsbanken,Sweden,18,Billion,3,Billion,351,Billion,18,Billion
+379,Orix,Japan,20,Billion,2,Billion,108,Billion,25,Billion
+380,Dow,United States,44,Billion,1,Billion,59,Billion,42,Billion
+381,IntercontinentalExchange,United States,10,Billion,3,Billion,131,Billion,79,Billion
+382,Power Construction Corporation of China,China,86,Billion,2,Billion,168,Billion,13,Billion
+383,Toyota Tsusho,Japan,71,Billion,2,Billion,47,Billion,22,Billion
+384,Takeda Pharmaceutical,Japan,30,Billion,996,Million,100,Billion,42,Billion
+385,Poste Italiane,Italy,22,Billion,2,Billion,293,Billion,17,Billion
+386,Mitsubishi Electric,Japan,36,Billion,2,Billion,41,Billion,38,Billion
+387,Citic Securities,China,13,Billion,3,Billion,217,Billion,26,Billion
+388,Haier Smart Home,China,37,Billion,2,Billion,36,Billion,38,Billion
+389,Kinder Morgan,United States,15,Billion,2,Billion,71,Billion,44,Billion
+390,Toyota Industries,Japan,27,Billion,2,Billion,73,Billion,30,Billion
+391,Rolls-Royce Holdings,United Kingdom,21,Billion,3,Billion,40,Billion,45,Billion
+392,Fortescue Metals Group,Australia,19,Billion,6,Billion,30,Billion,55,Billion
+393,Waste Management,United States,21,Billion,3,Billion,33,Billion,84,Billion
+394,Cheniere Energy,United States,17,Billion,5,Billion,43,Billion,37,Billion
+395,TAQA,United Arab Emirates,14,Billion,2,Billion,58,Billion,89,Billion
+396,CSX,United States,15,Billion,4,Billion,43,Billion,66,Billion
+397,Johnson Controls International,Ireland,27,Billion,2,Billion,44,Billion,47,Billion
+398,Larsen & Toubro,India,27,Billion,2,Billion,41,Billion,57,Billion
+399,Femsa,Mexico,42,Billion,1,Billion,48,Billion,43,Billion
+400,Dominion Energy,United States,14,Billion,2,Billion,102,Billion,45,Billion
+401,LyondellBasell Industries,United Kingdom,41,Billion,2,Billion,37,Billion,33,Billion
+402,Shin-Etsu Chemical,Japan,17,Billion,4,Billion,34,Billion,75,Billion
+403,Investor AB,Sweden,7,Billion,15,Billion,85,Billion,79,Billion
+404,M&T Bank,United States,13,Billion,3,Billion,215,Billion,26,Billion
+405,ORLEN Spolka Akcyjna,Poland,85,Billion,6,Billion,71,Billion,11,Billion
+406,Arch Capital Group,Bermuda,14,Billion,5,Billion,53,Billion,38,Billion
+407,Synchrony Financial,United States,19,Billion,3,Billion,121,Billion,18,Billion
+408,Fifth Third Bank,United States,13,Billion,2,Billion,215,Billion,26,Billion
+409,Becton Dickinson,United States,20,Billion,1,Billion,54,Billion,68,Billion
+410,ENEOS Holdings,Japan,96,Billion,2,Billion,67,Billion,14,Billion
+411,Hana Financial Group,South Korea,22,Billion,2,Billion,452,Billion,13,Billion
+412,Posco,South Korea,57,Billion,1,Billion,77,Billion,22,Billion
+413,Tata Consultancy Services,India,29,Billion,6,Billion,18,Billion,167,Billion
+414,Schweizerische Nationalbank,Switzerland,39,Billion,32,Billion,942,Billion,442,Million
+415,Prologis,United States,8,Billion,3,Billion,93,Billion,104,Billion
+416,Wanhua Chemical Group,China,25,Billion,2,Billion,39,Billion,39,Billion
+417,Oneok,United States,18,Billion,2,Billion,44,Billion,48,Billion
+418,Analog Devices,United States,12,Billion,3,Billion,48,Billion,106,Billion
+419,Parker-Hannifin,United States,20,Billion,3,Billion,30,Billion,70,Billion
+420,Baoshan Iron & Steel,China,49,Billion,2,Billion,54,Billion,21,Billion
+421,ArcelorMittal,Luxembourg,68,Billion,921,Million,94,Billion,22,Billion
+422,Nomura,Japan,29,Billion,1,Billion,364,Billion,18,Billion
+423,Bank Of Shanghai,China,15,Billion,3,Billion,437,Billion,15,Billion
+424,American Tower,United States,11,Billion,2,Billion,67,Billion,91,Billion
+425,Hewlett Packard Enterprise,United States,28,Billion,2,Billion,59,Billion,23,Billion
+426,Marriott International,United States,24,Billion,3,Billion,26,Billion,68,Billion
+427,Regeneron Pharmaceuticals,United States,13,Billion,4,Billion,34,Billion,108,Billion
+428,Intuit,United States,15,Billion,3,Billion,30,Billion,185,Billion
+429,Sysco,United States,78,Billion,2,Billion,25,Billion,38,Billion
+430,Daikin Industries,Japan,30,Billion,2,Billion,32,Billion,47,Billion
+431,Veolia Environnement,France,49,Billion,1,Billion,80,Billion,24,Billion
+432,Bridgestone,Japan,30,Billion,2,Billion,37,Billion,31,Billion
+433,Cummins,United States,34,Billion,2,Billion,32,Billion,39,Billion
+434,Michelin Group,France,31,Billion,2,Billion,39,Billion,29,Billion
+435,Komatsu,Japan,27,Billion,3,Billion,37,Billion,28,Billion
+436,Pfizer,United States,55,Billion,-289,Million,221,Billion,162,Billion
+437,CSL,Australia,14,Billion,3,Billion,37,Billion,91,Billion
+438,Keurig Dr Pepper,United States,15,Billion,2,Billion,52,Billion,46,Billion
+439,Canadian Pacific Kansas City,Canada,10,Billion,3,Billion,60,Billion,77,Billion
+440,Bank of Baroda,India,17,Billion,2,Billion,198,Billion,16,Billion
+441,CTBC Financial Holding,Taiwan,13,Billion,2,Billion,271,Billion,23,Billion
+442,Kotak Mahindra Bank,India,11,Billion,2,Billion,92,Billion,41,Billion
+443,TC Energy,Canada,11,Billion,2,Billion,95,Billion,40,Billion
+444,Carrier Global,United States,23,Billion,1,Billion,41,Billion,59,Billion
+445,Aon,Ireland,14,Billion,3,Billion,41,Billion,64,Billion
+446,HermÃ¨s International,France,15,Billion,5,Billion,23,Billion,261,Billion
+447,Mitsubishi Heavy Industries,Japan,32,Billion,2,Billion,41,Billion,30,Billion
+448,Infineon Technologies,Germany,17,Billion,3,Billion,31,Billion,52,Billion
+449,Heineken,Netherlands,33,Billion,1,Billion,62,Billion,23,Billion
+450,Boeing,United States,76,Billion,-2,Billion,135,Billion,114,Billion
+451,Grupo Mexico,Mexico,14,Billion,3,Billion,36,Billion,53,Billion
+452,London Stock Exchange,United Kingdom,10,Billion,946,Million,1026,Billion,63,Billion
+453,Sherwin-Williams,United States,23,Billion,2,Billion,23,Billion,79,Billion
+454,Dollar General,United States,39,Billion,2,Billion,34,Billion,31,Billion
+455,Baker Hughes Company,United States,26,Billion,2,Billion,37,Billion,33,Billion
+456,CRRC,China,32,Billion,2,Billion,65,Billion,18,Billion
+457,Bank Central Asia,Indonesia,8,Billion,3,Billion,91,Billion,75,Billion
+458,Boston Scientific,United States,15,Billion,2,Billion,37,Billion,110,Billion
+459,Naturgy Energy Group,Spain,25,Billion,2,Billion,42,Billion,26,Billion
+460,Saudi Electricity,Saudi Arabia,21,Billion,1,Billion,134,Billion,20,Billion
+461,Softbank,Japan,47,Billion,-2,Billion,309,Billion,81,Billion
+462,Wilmar International,Singapore,67,Billion,2,Billion,62,Billion,15,Billion
+463,China Vanke,China,65,Billion,2,Billion,203,Billion,10,Billion
+464,Maybank,Malaysia,11,Billion,2,Billion,224,Billion,26,Billion
+465,Hyundai Mobis,South Korea,44,Billion,3,Billion,45,Billion,15,Billion
+466,General Mills,United States,20,Billion,3,Billion,31,Billion,40,Billion
+467,Canon,Japan,29,Billion,2,Billion,38,Billion,28,Billion
+468,Consolidated Edison,United States,15,Billion,2,Billion,67,Billion,34,Billion
+469,Kansai Electric Power,Japan,28,Billion,3,Billion,60,Billion,14,Billion
+470,Danone,France,30,Billion,944,Million,49,Billion,42,Billion
+471,BT Group,United Kingdom,25,Billion,2,Billion,65,Billion,17,Billion
+472,Bharti Airtel,India,18,Billion,902,Million,53,Billion,92,Billion
+473,Etisalat,United Arab Emirates,15,Billion,3,Billion,40,Billion,38,Billion
+474,OMV Group,Austria,40,Billion,2,Billion,55,Billion,17,Billion
+475,Fast Retailing,Japan,20,Billion,2,Billion,23,Billion,81,Billion
+476,Carrefour,France,92,Billion,2,Billion,62,Billion,12,Billion
+477,NetEase,China,15,Billion,4,Billion,26,Billion,65,Billion
+478,Compass Group,United Kingdom,40,Billion,2,Billion,22,Billion,49,Billion
+479,Principal Financial Group,United States,15,Billion,1,Billion,288,Billion,20,Billion
+480,BCE,Canada,18,Billion,1,Billion,54,Billion,31,Billion
+481,Prudential,United Kingdom,11,Billion,2,Billion,172,Billion,29,Billion
+482,Suzuki Motor,Japan,37,Billion,2,Billion,36,Billion,22,Billion
+483,FirstRand,South Africa,12,Billion,2,Billion,128,Billion,21,Billion
+484,Sun Hung Kai Properties,Hong Kong,9,Billion,3,Billion,105,Billion,30,Billion
+485,Recruit Holdings ,Japan,24,Billion,2,Billion,21,Billion,77,Billion
+486,Williams,United States,10,Billion,3,Billion,53,Billion,50,Billion
+487,Xcel Energy,United States,14,Billion,2,Billion,66,Billion,31,Billion
+488,Coal India,India,17,Billion,4,Billion,29,Billion,35,Billion
+489,Kuwait Finance House,Kuwait,9,Billion,2,Billion,120,Billion,41,Billion
+490,Raymond James Financial,United States,14,Billion,2,Billion,81,Billion,26,Billion
+491,Reckitt Benckiser Group,United Kingdom,18,Billion,2,Billion,35,Billion,41,Billion
+492,China Coal Energy,China,27,Billion,3,Billion,49,Billion,15,Billion
+493,Samsung C&T,South Korea,32,Billion,2,Billion,52,Billion,18,Billion
+494,Longfor Group Holdings,China,25,Billion,2,Billion,99,Billion,13,Billion
+495,Blackstone,United States,10,Billion,2,Billion,40,Billion,152,Billion
+496,Daiwa House Industry,Japan,36,Billion,2,Billion,43,Billion,17,Billion
+497,Shaanxi Coal Industry,China,22,Billion,3,Billion,28,Billion,33,Billion
+498,China Merchants Shekou Industrial Zone Holdings,China,29,Billion,945,Million,282,Billion,14,Billion
+499,Mitsui Fudosan,Japan,17,Billion,2,Billion,63,Billion,26,Billion
+500,Henkel,Germany,23,Billion,1,Billion,35,Billion,38,Billion
+501,Imperial Brands,United Kingdom,23,Billion,3,Billion,36,Billion,22,Billion
+502,Truist Financial,United States,33,Billion,-1,Billion,535,Billion,54,Billion
+503,L3Harris Technologies,United States,20,Billion,1,Billion,42,Billion,42,Billion
+504,Air Products & Chemicals,United States,12,Billion,3,Billion,36,Billion,58,Billion
+505,Woodside Energy Group,Australia,14,Billion,2,Billion,55,Billion,35,Billion
+506,Capgemini,France,24,Billion,2,Billion,27,Billion,39,Billion
+507,NN Group,Netherlands,22,Billion,1,Billion,230,Billion,14,Billion
+508,Legal & General Group,United Kingdom,56,Billion,541,Million,656,Billion,19,Billion
+509,Republic Services,United States,15,Billion,2,Billion,31,Billion,59,Billion
+510,Halliburton,United States,23,Billion,3,Billion,25,Billion,34,Billion
+511,Bouygues,France,61,Billion,1,Billion,65,Billion,15,Billion
+512,Pernod Ricard,France,13,Billion,2,Billion,43,Billion,41,Billion
+513,Bristol Myers Squibb,United States,46,Billion,-6,Billion,99,Billion,89,Billion
+514,Coca-Cola Europacific Partners,United Kingdom,20,Billion,2,Billion,32,Billion,34,Billion
+515,Yankuang Energy Group,China,17,Billion,3,Billion,58,Billion,18,Billion
+516,Markel,United States,17,Billion,3,Billion,45,Billion,22,Billion
+517,Huntington Bank,United States,11,Billion,2,Billion,194,Billion,21,Billion
+518,Tokyo Electric Power,Japan,48,Billion,2,Billion,96,Billion,10,Billion
+519,CME Group,United States,6,Billion,3,Billion,132,Billion,77,Billion
+520,STMicroelectronics,Switzerland,17,Billion,4,Billion,25,Billion,37,Billion
+521,Swiss Life Holding,Switzerland,13,Billion,1,Billion,258,Billion,20,Billion
+522,Edison International,United States,16,Billion,959,Million,84,Billion,29,Billion
+523,GE HealthCare Technologies,United States,20,Billion,2,Billion,32,Billion,37,Billion
+524,Thales,France,20,Billion,1,Billion,43,Billion,38,Billion
+525,Canara Bank,India,17,Billion,2,Billion,184,Billion,12,Billion
+526,Isbank,Turkey,18,Billion,3,Billion,100,Billion,12,Billion
+527,Nutrien,Canada,28,Billion,844,Million,54,Billion,29,Billion
+528,British American Tobacco,United Kingdom,34,Billion,-18,Billion,151,Billion,70,Billion
+529,East Japan Railway,Japan,19,Billion,1,Billion,65,Billion,21,Billion
+530,Central Japan Railway,Japan,12,Billion,3,Billion,66,Billion,22,Billion
+531,Bank of Nanjing,China,11,Billion,3,Billion,332,Billion,14,Billion
+532,TE Connectivity,Ireland,16,Billion,3,Billion,23,Billion,46,Billion
+533,Power Finance,India,11,Billion,2,Billion,125,Billion,19,Billion
+534,Royal Caribbean Group,United States,15,Billion,2,Billion,35,Billion,37,Billion
+535,HeidelbergCement,Germany,23,Billion,2,Billion,40,Billion,19,Billion
+536,AirBnB,United States,10,Billion,5,Billion,25,Billion,93,Billion
+537,Bharat Petroleum,India,54,Billion,3,Billion,24,Billion,16,Billion
+538,LG Chem,South Korea,40,Billion,758,Million,61,Billion,23,Billion
+539,Turkish Airlines,Turkey,21,Billion,7,Billion,36,Billion,14,Billion
+540,Wuliangye Yibin,China,10,Billion,4,Billion,25,Billion,84,Billion
+541,Subaru Corporation,Japan,33,Billion,3,Billion,32,Billion,16,Billion
+542,Weichai Power,China,30,Billion,1,Billion,47,Billion,18,Billion
+543,Luxshare Precision Industry,China,33,Billion,2,Billion,24,Billion,32,Billion
+544,Atlas Copco,Sweden,17,Billion,3,Billion,19,Billion,90,Billion
+545,United Rentals,United States,15,Billion,3,Billion,27,Billion,46,Billion
+546,CNH Industrial,United Kingdom,24,Billion,2,Billion,46,Billion,14,Billion
+547,Loews,United States,16,Billion,2,Billion,81,Billion,17,Billion
+548,Entergy,United States,12,Billion,2,Billion,62,Billion,24,Billion
+549,Quanta Computer,Taiwan,34,Billion,1,Billion,23,Billion,34,Billion
+550,BASF,Germany,72,Billion,34,Million,88,Billion,48,Billion
+551,NXP Semiconductors,Netherlands,13,Billion,3,Billion,23,Billion,69,Billion
+552,Lam Research,United States,14,Billion,4,Billion,18,Billion,119,Billion
+553,Vertex Pharmaceuticals,United States,10,Billion,4,Billion,24,Billion,115,Billion
+554,Citizens Financial Group,United States,13,Billion,1,Billion,220,Billion,17,Billion
+555,Xiamen C&D,China,101,Billion,2,Billion,123,Billion,5,Billion
+556,S.F. Holding,China,37,Billion,1,Billion,31,Billion,25,Billion
+557,Norfolk Southern,United States,12,Billion,1,Billion,42,Billion,52,Billion
+558,Deutsche Boerse,Germany,7,Billion,2,Billion,263,Billion,37,Billion
+559,Intact Financial,Canada,20,Billion,1,Billion,38,Billion,30,Billion
+560,Fujifilm Holdings,Japan,21,Billion,2,Billion,32,Billion,26,Billion
+561,Everest Re Group,Bermuda,15,Billion,3,Billion,48,Billion,17,Billion
+562,OTP Bank,Hungary,12,Billion,3,Billion,114,Billion,14,Billion
+563,Trane Technologies,Ireland,18,Billion,2,Billion,19,Billion,74,Billion
+564,Inpex,Japan,15,Billion,2,Billion,48,Billion,19,Billion
+565,Wesfarmers,Australia,29,Billion,2,Billion,19,Billion,52,Billion
+566,Colgate-Palmolive,United States,20,Billion,3,Billion,17,Billion,77,Billion
+567,Samsung Life Insurance,South Korea,18,Billion,1,Billion,234,Billion,12,Billion
+568,Haleon,United Kingdom,14,Billion,1,Billion,43,Billion,38,Billion
+569,Infosys,India,19,Billion,3,Billion,17,Billion,72,Billion
+570,Devon Energy,United States,15,Billion,3,Billion,25,Billion,31,Billion
+571,Punjab National Bank,India,15,Billion,1,Billion,192,Billion,17,Billion
+572,Publicis Groupe,France,16,Billion,1,Billion,41,Billion,29,Billion
+573,MediaTek,Taiwan,15,Billion,3,Billion,20,Billion,58,Billion
+574,SK Hynix,South Korea,30,Billion,-4,Billion,77,Billion,97,Billion
+575,Gilead Sciences,United States,27,Billion,484,Million,56,Billion,84,Billion
+576,Union Bank of India,India,14,Billion,2,Billion,168,Billion,13,Billion
+577,Abu Dhabi Commercial Bank,United Arab Emirates,10,Billion,2,Billion,162,Billion,17,Billion
+578,Gallagher,United States,11,Billion,1,Billion,61,Billion,56,Billion
+579,International Airlines,United Kingdom,32,Billion,3,Billion,42,Billion,11,Billion
+580,Fujitsu,Japan,26,Billion,2,Billion,23,Billion,28,Billion
+581,Public Service Enterprise Group,United States,10,Billion,2,Billion,52,Billion,37,Billion
+582,Aptiv,Ireland,20,Billion,3,Billion,24,Billion,22,Billion
+583,Bayer ,Germany,51,Billion,-3,Billion,130,Billion,31,Billion
+584,China Zheshang Bank,China,18,Billion,2,Billion,438,Billion,8,Billion
+585,George Weston,Canada,45,Billion,1,Billion,36,Billion,19,Billion
+586,Cardinal Health,United States,221,Billion,552,Million,46,Billion,24,Billion
+587,Kubota,Japan,21,Billion,2,Billion,38,Billion,18,Billion
+588,Regions Financial,United States,9,Billion,2,Billion,155,Billion,19,Billion
+589,Bunge,United States,58,Billion,2,Billion,26,Billion,15,Billion
+590,Equitable Holdings,United States,13,Billion,1,Billion,276,Billion,13,Billion
+591,China National Nuclear Power,China,10,Billion,2,Billion,78,Billion,24,Billion
+592,Bajaj Finserv ,India,13,Billion,984,Million,65,Billion,30,Billion
+593,Mahindra & Mahindra,India,17,Billion,1,Billion,28,Billion,38,Billion
+594,Nintendo,Japan,12,Billion,3,Billion,21,Billion,64,Billion
+595,Kenvue,United States,16,Billion,2,Billion,27,Billion,39,Billion
+596,National Bank of Kuwait ,Kuwait,8,Billion,2,Billion,125,Billion,24,Billion
+597,Barrick Gold,Canada,12,Billion,1,Billion,46,Billion,31,Billion
+598,Coinbase,United States,5,Billion,1,Billion,348,Billion,51,Billion
+599,Ecolab,United States,16,Billion,2,Billion,21,Billion,67,Billion
+600,AutoZone,United States,18,Billion,3,Billion,17,Billion,51,Billion
+601,Illinois Tool Works,United States,16,Billion,3,Billion,16,Billion,75,Billion
+602,DSV,Denmark,22,Billion,2,Billion,22,Billion,31,Billion
+603,Standard Bank Group,South Africa,8,Billion,3,Billion,168,Billion,17,Billion
+604,Associated British Foods,United Kingdom,25,Billion,2,Billion,24,Billion,26,Billion
+605,Lenovo Group,Hong Kong,56,Billion,876,Million,40,Billion,16,Billion
+606,Northern Trust,United States,13,Billion,977,Million,156,Billion,18,Billion
+607,Reinsurance Group of America,United States,21,Billion,860,Million,101,Billion,14,Billion
+608,Nokia,Finland,23,Billion,888,Million,43,Billion,22,Billion
+609,PKO Bank Polski,Poland,10,Billion,2,Billion,125,Billion,18,Billion
+610,Ferguson,United Kingdom,29,Billion,2,Billion,16,Billion,43,Billion
+611,Grupa PZU,Poland,15,Billion,1,Billion,118,Billion,12,Billion
+612,IQVIA,United States,15,Billion,1,Billion,27,Billion,42,Billion
+613,Woori Financial Group,South Korea,19,Billion,2,Billion,375,Billion,8,Billion
+614,Edp-energias De Portugal,Portugal,17,Billion,1,Billion,60,Billion,17,Billion
+615,Hess,United States,12,Billion,2,Billion,25,Billion,49,Billion
+616,Naspers,South Africa,6,Billion,4,Billion,61,Billion,38,Billion
+617,Swire Pacific,Hong Kong,12,Billion,4,Billion,57,Billion,13,Billion
+618,Kimberly-Clark,United States,20,Billion,2,Billion,17,Billion,45,Billion
+619,China Tower Corp.,China,13,Billion,1,Billion,46,Billion,22,Billion
+620,SingTel,Singapore,11,Billion,2,Billion,35,Billion,30,Billion
+621,Chubu Electric Power,Japan,25,Billion,3,Billion,47,Billion,10,Billion
+622,CMOC Group,China,26,Billion,1,Billion,25,Billion,22,Billion
+623,Hengli Petrochemical,China,32,Billion,1,Billion,38,Billion,15,Billion
+624,QBE Insurance Group,Australia,22,Billion,1,Billion,35,Billion,18,Billion
+625,Riyad Bank,Saudi Arabia,7,Billion,2,Billion,108,Billion,21,Billion
+626,Sinopharm Group,China,84,Billion,1,Billion,54,Billion,9,Billion
+627,Telefónica,Spain,44,Billion,-712,Million,113,Billion,25,Billion
+628,Telstra,Australia,15,Billion,1,Billion,31,Billion,28,Billion
+629,Cognizant,United States,19,Billion,2,Billion,18,Billion,34,Billion
+630,3M,United States,33,Billion,-7,Billion,55,Billion,58,Billion
+631,Industrial Bank of Korea,South Korea,16,Billion,2,Billion,337,Billion,8,Billion
+632,NRG Energy,United States,29,Billion,2,Billion,25,Billion,17,Billion
+633,CBRE Group,United States,33,Billion,995,Million,23,Billion,28,Billion
+634,Tokyo Electron,Japan,13,Billion,3,Billion,16,Billion,108,Billion
+635,Metallurgical Corp of China,China,89,Billion,1,Billion,97,Billion,5,Billion
+636,Bank Of Hangzhou,China,10,Billion,2,Billion,265,Billion,11,Billion
+637,CEZ Group,Czech Republic,15,Billion,1,Billion,35,Billion,22,Billion
+638,Micron Technology,United States,18,Billion,-4,Billion,66,Billion,139,Billion
+639,China Energy Engineering,China,58,Billion,1,Billion,113,Billion,5,Billion
+640,AerCap Holdings,Ireland,7,Billion,3,Billion,71,Billion,19,Billion
+641,CGN Power,China,12,Billion,2,Billion,58,Billion,19,Billion
+642,Swisscom,Switzerland,12,Billion,2,Billion,28,Billion,29,Billion
+643,Diamondback Energy,United States,9,Billion,3,Billion,30,Billion,35,Billion
+644,New China Life Insurance,China,19,Billion,2,Billion,179,Billion,7,Billion
+645,JSW Steel,India,21,Billion,1,Billion,27,Billion,27,Billion
+646,RELX,United Kingdom,11,Billion,2,Billion,19,Billion,82,Billion
+647,Raiffeisen Bank International,Austria,16,Billion,3,Billion,220,Billion,6,Billion
+648,Asahi Group Holdings,Japan,20,Billion,1,Billion,36,Billion,19,Billion
+649,Bank Leumi,Israel,10,Billion,2,Billion,203,Billion,12,Billion
+650,DTE Energy,United States,12,Billion,1,Billion,46,Billion,24,Billion
+651,Centrica,United Kingdom,33,Billion,5,Billion,27,Billion,10,Billion
+652,Nu Holdings,Cayman Islands,8,Billion,1,Billion,44,Billion,56,Billion
+653,Albertsons,United States,79,Billion,1,Billion,29,Billion,12,Billion
+654,Ally Financial,United States,16,Billion,858,Million,193,Billion,12,Billion
+655,Anglo American,United Kingdom,31,Billion,301,Million,67,Billion,41,Billion
+656,GD Power Development,China,25,Billion,897,Million,65,Billion,13,Billion
+657,FirstEnergy,United States,13,Billion,1,Billion,51,Billion,23,Billion
+658,PPG ,United States,18,Billion,1,Billion,22,Billion,32,Billion
+659,Bank Hapoalim,Israel,9,Billion,2,Billion,191,Billion,12,Billion
+660,Tenet Healthcare,United States,21,Billion,3,Billion,29,Billion,13,Billion
+661,Ross Stores,United States,20,Billion,2,Billion,15,Billion,44,Billion
+662,Global Payments,United States,10,Billion,1,Billion,52,Billion,28,Billion
+663,MercadoLibre,Argentina,16,Billion,1,Billion,19,Billion,89,Billion
+664,Anhui Conch Cement,China,20,Billion,2,Billion,35,Billion,15,Billion
+665,Deutsche Lufthansa,Germany,39,Billion,2,Billion,51,Billion,9,Billion
+666,Akbank,Turkey,15,Billion,3,Billion,64,Billion,10,Billion
+667,Inner Mongolia Yili ,China,17,Billion,2,Billion,22,Billion,25,Billion
+668,Teck Resources,Canada,11,Billion,1,Billion,43,Billion,28,Billion
+669,Amphenol,United States,13,Billion,2,Billion,17,Billion,79,Billion
+670,Magna International,Canada,43,Billion,1,Billion,33,Billion,14,Billion
+671,Great Wall Motor ,China,25,Billion,1,Billion,27,Billion,16,Billion
+672,Jardine Matheson,Bermuda,36,Billion,686,Million,89,Billion,11,Billion
+673,Warner Bros. Discovery,United States,41,Billion,-3,Billion,120,Billion,20,Billion
+674,CIMB Group Holdings,Malaysia,8,Billion,2,Billion,160,Billion,16,Billion
+675,O'Reilly Automotive,United States,16,Billion,2,Billion,14,Billion,60,Billion
+676,Asr Nederland,Netherlands,14,Billion,1,Billion,166,Billion,11,Billion
+677,Daiichi Sankyo,Japan,11,Billion,1,Billion,23,Billion,68,Billion
+678,Tenaris,Luxembourg,14,Billion,4,Billion,22,Billion,20,Billion
+679,Constellation Brands,United States,10,Billion,2,Billion,26,Billion,47,Billion
+680,GE Vernova,United States,33,Billion,-438,Million,48,Billion,45,Billion
+681,Continental,Germany,44,Billion,782,Million,41,Billion,14,Billion
+682,Samsung SDI,South Korea,17,Billion,1,Billion,26,Billion,21,Billion
+683,Huaneng Power International,China,36,Billion,784,Million,78,Billion,10,Billion
+684,Hindalco Industries,India,26,Billion,1,Billion,27,Billion,18,Billion
+685,Banco de Sabadell,Spain,11,Billion,1,Billion,260,Billion,11,Billion
+686,Bank of Ireland,Ireland,10,Billion,2,Billion,172,Billion,12,Billion
+687,Aeon,Japan,67,Billion,312,Million,87,Billion,18,Billion
+688,Sumitomo Mitsui Trust,Japan,15,Billion,548,Million,501,Billion,17,Billion
+689,Walgreens Boots Alliance,United States,145,Billion,-6,Billion,84,Billion,16,Billion
+690,NEC,Japan,24,Billion,1,Billion,28,Billion,19,Billion
+691,Idemitsu Kosan,Japan,60,Billion,2,Billion,33,Billion,9,Billion
+692,Vistra Energy,United States,15,Billion,759,Million,38,Billion,33,Billion
+693,W. R. Berkley,United States,13,Billion,2,Billion,34,Billion,20,Billion
+694,Corteva,United States,17,Billion,559,Million,44,Billion,39,Billion
+695,Lincoln National,United States,17,Billion,1,Billion,354,Billion,5,Billion
+696,WEC Energy Group,United States,9,Billion,1,Billion,44,Billion,27,Billion
+697,Singapore Airlines,Singapore,14,Billion,2,Billion,33,Billion,15,Billion
+698,Hikvision,China,13,Billion,2,Billion,18,Billion,44,Billion
+699,Mitsubishi Estate,Japan,10,Billion,1,Billion,50,Billion,22,Billion
+700,Coupang,United States,26,Billion,1,Billion,15,Billion,41,Billion
+701,Li Auto,China,17,Billion,2,Billion,20,Billion,24,Billion
+702,ServiceNow,United States,10,Billion,2,Billion,18,Billion,157,Billion
+703,Samsung Fire & Marine,South Korea,14,Billion,1,Billion,62,Billion,12,Billion
+704,China Hongqiao Group,China,19,Billion,2,Billion,28,Billion,15,Billion
+705,Cincinnati Financial,United States,11,Billion,2,Billion,33,Billion,19,Billion
+706,KeyCorp,United States,11,Billion,874,Million,188,Billion,15,Billion
+707,Block,United States,23,Billion,499,Million,36,Billion,45,Billion
+708,PulteGroup,United States,16,Billion,3,Billion,17,Billion,25,Billion
+709,Saudi British Bank,Saudi Arabia,6,Billion,2,Billion,99,Billion,22,Billion
+710,JFE Holdings,Japan,36,Billion,1,Billion,38,Billion,9,Billion
+711,Korea Electric Power,South Korea,68,Billion,519,Million,178,Billion,9,Billion
+712,Banco BPM,Italy,10,Billion,1,Billion,223,Billion,11,Billion
+713,Omnicom Group,United States,15,Billion,2,Billion,27,Billion,19,Billion
+714,EnBW Energie Baden-Wurttemberg,Germany,42,Billion,56,Million,72,Billion,20,Billion
+715,ACS Actividades de Construccion y Servicios,Spain,39,Billion,843,Million,41,Billion,11,Billion
+716,WW Grainger,United States,17,Billion,2,Billion,8,Billion,46,Billion
+717,BOE Technology Group,China,25,Billion,458,Million,58,Billion,23,Billion
+718,Equinix,United States,8,Billion,941,Million,32,Billion,76,Billion
+719,Nippon Yusen,Japan,17,Billion,2,Billion,28,Billion,15,Billion
+720,Emaar Properties,United Arab Emirates,8,Billion,3,Billion,39,Billion,18,Billion
+721,Kuehne & Nagel International,Switzerland,26,Billion,1,Billion,13,Billion,32,Billion
+722,KLA,United States,10,Billion,3,Billion,15,Billion,101,Billion
+723,Porsche Automobil Holding,Germany,6,Billion,6,Billion,69,Billion,17,Billion
+724,Crown Castle International,United States,7,Billion,1,Billion,38,Billion,45,Billion
+725,Eiffage,France,24,Billion,1,Billion,42,Billion,11,Billion
+726,Sekisui House,Japan,22,Billion,1,Billion,23,Billion,15,Billion
+727,Las Vegas Sands,United States,11,Billion,2,Billion,21,Billion,35,Billion
+728,Alcon,Switzerland,10,Billion,1,Billion,30,Billion,44,Billion
+729,VICI Properties,United States,4,Billion,3,Billion,44,Billion,32,Billion
+730,Simon Property Group,United States,6,Billion,3,Billion,34,Billion,49,Billion
+731,Genuine Parts,United States,23,Billion,1,Billion,18,Billion,21,Billion
+732,Renesas Electronics,Japan,10,Billion,2,Billion,21,Billion,31,Billion
+733,Verbund,Austria,10,Billion,2,Billion,22,Billion,27,Billion
+734,China Resources Power,Hong Kong,13,Billion,1,Billion,41,Billion,13,Billion
+735,Fidelity National Financial,United States,13,Billion,824,Million,74,Billion,14,Billion
+736,eBay,United States,10,Billion,3,Billion,21,Billion,26,Billion
+737,Volvo Car,Sweden,38,Billion,1,Billion,35,Billion,9,Billion
+738,LG Electronics,South Korea,64,Billion,543,Million,46,Billion,13,Billion
+739,Emerson Electric,United States,17,Billion,129,Million,46,Billion,65,Billion
+740,Palo Alto Networks,United States,8,Billion,2,Billion,18,Billion,103,Billion
+741,Assa Abloy,Sweden,14,Billion,1,Billion,20,Billion,32,Billion
+742,Keyence,Japan,7,Billion,3,Billion,20,Billion,114,Billion
+743,Sumitomo Electric,Japan,30,Billion,1,Billion,29,Billion,12,Billion
+744,Siemens Energy,Germany,35,Billion,-2,Billion,54,Billion,22,Billion
+745,Steel Dynamics,United States,19,Billion,2,Billion,15,Billion,21,Billion
+746,Grasim Industries,India,15,Billion,681,Million,47,Billion,20,Billion
+747,Aluminum Corp of China,China,32,Billion,941,Million,30,Billion,12,Billion
+748,Ashtead Group,United Kingdom,11,Billion,2,Billion,22,Billion,32,Billion
+749,Sika,Switzerland,13,Billion,1,Billion,18,Billion,50,Billion
+750,Huatai Securities,China,8,Billion,2,Billion,128,Billion,12,Billion
+751,AIB Group,Ireland,6,Billion,2,Billion,151,Billion,14,Billion
+752,Meritz Financial Group,South Korea,10,Billion,2,Billion,76,Billion,11,Billion
+753,Hong Kong Exchanges,Hong Kong,3,Billion,2,Billion,43,Billion,48,Billion
+754,Fortis (Canada),Canada,8,Billion,1,Billion,50,Billion,20,Billion
+755,Targa Resources,United States,16,Billion,1,Billion,21,Billion,26,Billion
+756,Ryanair Holdings,Ireland,14,Billion,2,Billion,17,Billion,23,Billion
+757,3i Group,United Kingdom,707,Million,5,Billion,27,Billion,36,Billion
+758,Roper Technologies,United States,6,Billion,2,Billion,30,Billion,58,Billion
+759,VakifBank,Turkey,16,Billion,1,Billion,97,Billion,7,Billion
+760,Chongqing Changan Auto,China,21,Billion,769,Million,26,Billion,20,Billion
+761,MGM Resorts,United States,17,Billion,893,Million,42,Billion,13,Billion
+762,RenaissanceRe Holdings,Bermuda,10,Billion,2,Billion,45,Billion,12,Billion
+763,Huishang Bank,China,10,Billion,2,Billion,255,Billion,4,Billion
+764,HCLTech,India,13,Billion,2,Billion,12,Billion,43,Billion
+765,Molina Healthcare,United States,36,Billion,1,Billion,16,Billion,20,Billion
+766,Neste,Finland,24,Billion,2,Billion,18,Billion,16,Billion
+767,Thomson Reuters,Canada,7,Billion,2,Billion,19,Billion,77,Billion
+768,Aegon,Netherlands,26,Billion,253,Million,315,Billion,12,Billion
+769,Bancolombia,Colombia,11,Billion,2,Billion,87,Billion,9,Billion
+770,ASE Technology Holding,Taiwan,19,Billion,1,Billion,21,Billion,20,Billion
+771,Rongsheng Petrochemical,China,43,Billion,443,Million,53,Billion,15,Billion
+772,Resona Holdings,Japan,6,Billion,1,Billion,503,Billion,15,Billion
+773,Jabil Circuit,United States,32,Billion,2,Billion,17,Billion,14,Billion
+774,Grupo Inbursa,Mexico,8,Billion,2,Billion,45,Billion,18,Billion
+775,Biogen,United States,9,Billion,1,Billion,27,Billion,34,Billion
+776,Daqin Railway,China,11,Billion,2,Billion,29,Billion,17,Billion
+777,The EstÃ©e Lauder Companies,United States,15,Billion,641,Million,23,Billion,48,Billion
+778,Suncorp Group,Australia,12,Billion,777,Million,73,Billion,14,Billion
+779,SSE,United Kingdom,14,Billion,709,Million,32,Billion,25,Billion
+780,Murata Manufacturing,Japan,11,Billion,1,Billion,20,Billion,35,Billion
+781,Celanese,United States,11,Billion,2,Billion,26,Billion,17,Billion
+782,TransDigm Group,United States,7,Billion,1,Billion,22,Billion,72,Billion
+783,Beijing-Shanghai High-Speed Railway,China,6,Billion,2,Billion,41,Billion,36,Billion
+784,Newmont ,United States,13,Billion,-3,Billion,55,Billion,50,Billion
+785,Tyson Foods,United States,53,Billion,-615,Million,38,Billion,21,Billion
+786,Ageas,Belgium,12,Billion,1,Billion,106,Billion,9,Billion
+787,Nidec,Japan,16,Billion,867,Million,21,Billion,27,Billion
+788,Zoetis,United States,9,Billion,2,Billion,14,Billion,79,Billion
+789,CK Asset Holdings,Hong Kong,6,Billion,2,Billion,65,Billion,16,Billion
+790,H&M - Hennes & Mauritz,Sweden,22,Billion,888,Million,17,Billion,27,Billion
+791,Public Bank,Malaysia,5,Billion,2,Billion,111,Billion,17,Billion
+792,TELUS,Canada,15,Billion,557,Million,43,Billion,24,Billion
+793,Sampo,Finland,10,Billion,2,Billion,25,Billion,22,Billion
+794,Best Buy,United States,44,Billion,1,Billion,15,Billion,16,Billion
+795,Galp Energia,Portugal,22,Billion,1,Billion,18,Billion,16,Billion
+796,Shanghai Rural Commercial Bank,China,7,Billion,2,Billion,200,Billion,10,Billion
+797,WTW,United Kingdom,10,Billion,1,Billion,30,Billion,26,Billion
+798,Intuitive Surgical,United States,7,Billion,2,Billion,16,Billion,142,Billion
+799,Otsuka Holding,Japan,15,Billion,951,Million,23,Billion,23,Billion
+800,Unum Group,United States,13,Billion,1,Billion,54,Billion,10,Billion
+801,Universal Music Group,Netherlands,12,Billion,1,Billion,15,Billion,57,Billion
+802,The Hershey Company,United States,11,Billion,2,Billion,12,Billion,42,Billion
+803,Otis Worldwide,United States,14,Billion,1,Billion,10,Billion,39,Billion
+804,Digital Realty Trust,United States,6,Billion,1,Billion,43,Billion,46,Billion
+805,Quanta Services,United States,22,Billion,768,Million,16,Billion,39,Billion
+806,SM Investments,Philippines,10,Billion,1,Billion,28,Billion,19,Billion
+807,CDW,United States,21,Billion,1,Billion,13,Billion,30,Billion
+808,Grupo Bimbo,Mexico,23,Billion,795,Million,22,Billion,19,Billion
+809,Realty Income,United States,4,Billion,780,Million,68,Billion,48,Billion
+810,ITC,India,9,Billion,3,Billion,11,Billion,65,Billion
+811,ZTE,China,17,Billion,1,Billion,29,Billion,11,Billion
+812,T&D Holdings,Japan,19,Billion,683,Million,114,Billion,9,Billion
+813,Essity,Sweden,15,Billion,2,Billion,17,Billion,18,Billion
+814,Fox,United States,14,Billion,2,Billion,22,Billion,15,Billion
+815,Alinma Bank,Saudi Arabia,5,Billion,1,Billion,65,Billion,21,Billion
+816,Joint Stock Commercial Bank for Foreign Trade of Vietnam,Vietnam,5,Billion,1,Billion,72,Billion,20,Billion
+817,Mega Financial Holding,Taiwan,5,Billion,1,Billion,143,Billion,18,Billion
+818,HF Sinclair,United States,31,Billion,2,Billion,18,Billion,11,Billion
+819,American Airlines Group,United States,53,Billion,500,Million,64,Billion,10,Billion
+820,Carnival Corporation,United States,23,Billion,405,Million,50,Billion,19,Billion
+821,MTR,Hong Kong,7,Billion,994,Million,44,Billion,23,Billion
+822,Trip.com Group,China,6,Billion,1,Billion,31,Billion,36,Billion
+823,Unipol Gruppo,Italy,14,Billion,1,Billion,87,Billion,7,Billion
+824,BPER Banca,Italy,8,Billion,2,Billion,151,Billion,8,Billion
+825,Hilton Worldwide Holdings,United States,11,Billion,1,Billion,16,Billion,51,Billion
+826,Chipotle Mexican Grill,United States,10,Billion,1,Billion,8,Billion,88,Billion
+827,Power Grid of India,India,6,Billion,2,Billion,30,Billion,35,Billion
+828,Mapfre,Spain,35,Billion,748,Million,54,Billion,8,Billion
+829,Fresenius,Germany,30,Billion,-718,Million,48,Billion,17,Billion
+830,CLP Holdings,Hong Kong,11,Billion,850,Million,29,Billion,22,Billion
+831,JBS,Brazil,74,Billion,413,Million,41,Billion,13,Billion
+832,Mitsubishi UFJ Lease,Japan,14,Billion,856,Million,74,Billion,10,Billion
+833,Geely Automobile Holdings,Hong Kong,25,Billion,723,Million,27,Billion,13,Billion
+834,Kasikornbank,Thailand,9,Billion,1,Billion,118,Billion,9,Billion
+835,Tata Steel,India,28,Billion,-405,Million,33,Billion,25,Billion
+836,Leonardo,Italy,17,Billion,711,Million,34,Billion,15,Billion
+837,Ameren,United States,7,Billion,1,Billion,41,Billion,20,Billion
+838,CenterPoint Energy,United States,9,Billion,942,Million,40,Billion,19,Billion
+839,Cintas,United States,9,Billion,2,Billion,9,Billion,70,Billion
+840,Daiwa Securities,Japan,9,Billion,841,Million,212,Billion,10,Billion
+841,Rogers Communications,Canada,15,Billion,440,Million,51,Billion,21,Billion
+842,China Taiping Insurance,Hong Kong,17,Billion,686,Million,192,Billion,4,Billion
+843,Microchip Technology,United States,8,Billion,2,Billion,16,Billion,51,Billion
+844,Motorola Solutions,United States,10,Billion,1,Billion,13,Billion,61,Billion
+845,TD SYNNEX,United States,56,Billion,627,Million,28,Billion,11,Billion
+846,Builders FirstSource,United States,17,Billion,2,Billion,11,Billion,20,Billion
+847,Tohoku Electric Power,Japan,20,Billion,2,Billion,36,Billion,4,Billion
+848,Corning,United States,12,Billion,614,Million,28,Billion,30,Billion
+849,Credicorp,Peru,7,Billion,1,Billion,65,Billion,13,Billion
+850,Eletrobras,Brazil,7,Billion,889,Million,53,Billion,19,Billion
+851,SK,South Korea,100,Billion,-1,Billion,161,Billion,6,Billion
+852,Kuaishou Technology,China,16,Billion,882,Million,15,Billion,32,Billion
+853,Mitsui OSK Lines,Japan,11,Billion,2,Billion,27,Billion,12,Billion
+854,Mazda Motor,Japan,33,Billion,1,Billion,25,Billion,6,Billion
+855,Sandvik,Sweden,12,Billion,1,Billion,17,Billion,27,Billion
+856,Super Micro Computer,United States,12,Billion,1,Billion,9,Billion,52,Billion
+857,Tractor Supply,United States,15,Billion,1,Billion,10,Billion,31,Billion
+858,TDK,Japan,15,Billion,862,Million,23,Billion,18,Billion
+859,Flex,United States,28,Billion,1,Billion,18,Billion,12,Billion
+860,Woolworths,Australia,44,Billion,-5,Million,23,Billion,26,Billion
+861,Southwest Airlines,United States,27,Billion,426,Million,36,Billion,17,Billion
+862,Jiangxi Copper,China,74,Billion,953,Million,24,Billion,8,Billion
+863,HAL Trust,Netherlands,14,Billion,1,Billion,29,Billion,12,Billion
+864,Philips,Netherlands,20,Billion,-504,Million,33,Billion,26,Billion
+865,PPL,United States,8,Billion,762,Million,40,Billion,22,Billion
+866,Workday,United States,7,Billion,1,Billion,17,Billion,69,Billion
+867,Tenaga Nasional,Malaysia,12,Billion,607,Million,51,Billion,16,Billion
+868,Public Storage,United States,5,Billion,2,Billion,20,Billion,51,Billion
+869,Mitsubishi Chemical,Japan,30,Billion,827,Million,40,Billion,8,Billion
+870,Mediobanca,Italy,5,Billion,1,Billion,105,Billion,14,Billion
+871,Lululemon Athletica,Canada,10,Billion,2,Billion,7,Billion,42,Billion
+872,Interactive Brokers Group,United States,8,Billion,627,Million,132,Billion,13,Billion
+873,Longi Green Energy Technology,China,17,Billion,664,Million,23,Billion,20,Billion
+874,Kyocera,Japan,14,Billion,699,Million,30,Billion,17,Billion
+875,CP All,Thailand,26,Billion,574,Million,25,Billion,15,Billion
+876,Absa Group,South Africa,11,Billion,1,Billion,103,Billion,7,Billion
+877,Jackson Financial,United States,4,Billion,3,Billion,316,Billion,6,Billion
+878,Sabanci Holding,Turkey,23,Billion,648,Million,74,Billion,7,Billion
+879,Henderson Land,Hong Kong,4,Billion,1,Billion,70,Billion,16,Billion
+880,BDO Unibank,Philippines,6,Billion,1,Billion,81,Billion,13,Billion
+881,Chongqing Rural Bank,China,8,Billion,2,Billion,206,Billion,6,Billion
+882,TCL ,China,24,Billion,419,Million,54,Billion,12,Billion
+883,NASDAQ,United States,6,Billion,992,Million,30,Billion,36,Billion
+884,Isuzu Motors,Japan,23,Billion,1,Billion,22,Billion,9,Billion
+885,Phoenix Group Holdings,United Kingdom,33,Billion,-172,Million,375,Billion,7,Billion
+886,SDIC Power Holdings,China,8,Billion,994,Million,39,Billion,16,Billion
+887,Sumitomo Realty,Japan,7,Billion,1,Billion,44,Billion,16,Billion
+888,Quinenco,Chile,12,Billion,1,Billion,79,Billion,6,Billion
+889,Mizrahi Tefahot Bank,Israel,7,Billion,1,Billion,125,Billion,9,Billion
+890,Evergreen Marine Corp. (Taiwan),Taiwan,10,Billion,2,Billion,24,Billion,14,Billion
+891,Greenland Holdings Group,China,46,Billion,-2,Billion,166,Billion,4,Billion
+892,Adidas,Germany,23,Billion,145,Million,20,Billion,45,Billion
+893,Banca MPS,Italy,7,Billion,2,Billion,136,Billion,7,Billion
+894,Ford Otosan,Turkey,17,Billion,2,Billion,7,Billion,13,Billion
+895,Sichuan Road & Bridge,China,15,Billion,1,Billion,33,Billion,9,Billion
+896,East Money Information  ,China,2,Billion,1,Billion,36,Billion,28,Billion
+897,Aisin Seiki,Japan,34,Billion,628,Million,31,Billion,10,Billion
+898,Guotai Junan Securities,China,6,Billion,1,Billion,131,Billion,10,Billion
+899,Commercial Bank For Investment & Development Of Vietnam,Vietnam,7,Billion,909,Million,94,Billion,11,Billion
+900,Dubai Islamic Bank,United Arab Emirates,5,Billion,2,Billion,86,Billion,11,Billion
+901,Arista Networks,United States,6,Billion,2,Billion,11,Billion,100,Billion
+902,IndusInd Bank,India,7,Billion,1,Billion,62,Billion,13,Billion
+903,Westinghouse Air Brake Technologies,United States,10,Billion,918,Million,19,Billion,30,Billion
+904,Monster Beverage,United States,7,Billion,2,Billion,10,Billion,56,Billion
+905,Jeronimo Martins,Portugal,35,Billion,773,Million,16,Billion,14,Billion
+906,Dollar Tree,United States,31,Billion,-998,Million,22,Billion,26,Billion
+907,ON Semiconductor Corp.,United States,8,Billion,2,Billion,14,Billion,32,Billion
+908,Ovintiv,United States,11,Billion,2,Billion,20,Billion,13,Billion
+909,Hanwha,South Korea,39,Billion,-55,Million,159,Billion,2,Billion
+910,Naver,South Korea,8,Billion,1,Billion,27,Billion,21,Billion
+911,Suzano ,Brazil,8,Billion,2,Billion,29,Billion,13,Billion
+912,Expedia Group,United States,13,Billion,807,Million,25,Billion,15,Billion
+913,Telkom Indonesia,Indonesia,10,Billion,2,Billion,18,Billion,19,Billion
+914,Tokyo Gas,Japan,18,Billion,1,Billion,26,Billion,9,Billion
+915,China National Building,China,30,Billion,542,Million,69,Billion,4,Billion
+916,Fidelity National Information (FIS),United States,11,Billion,-7,Billion,36,Billion,44,Billion
+917,Saudi Arabian Mining,Saudi Arabia,8,Billion,570,Million,30,Billion,49,Billion
+918,CMS Energy,United States,7,Billion,970,Million,34,Billion,19,Billion
+919,Martin Marietta Materials,United States,7,Billion,2,Billion,16,Billion,36,Billion
+920,AES,United States,13,Billion,523,Million,47,Billion,15,Billion
+921,Bank Of Chengdu,China,6,Billion,2,Billion,163,Billion,9,Billion
+922,Indian Railway Finance,India,3,Billion,731,Million,59,Billion,27,Billion
+923,Legend Holding,China,62,Billion,-530,Million,94,Billion,2,Billion
+924,Muyuan Foodstuff,China,16,Billion,-759,Million,27,Billion,35,Billion
+925,DuPont De Nemours,United States,12,Billion,355,Million,38,Billion,33,Billion
+926,Wipro,India,11,Billion,1,Billion,14,Billion,29,Billion
+927,Delta Electronics,Taiwan,13,Billion,1,Billion,15,Billion,26,Billion
+928,Mashreq Bank,United Arab Emirates,5,Billion,2,Billion,65,Billion,10,Billion
+929,Molson Coors Brewing,United States,12,Billion,1,Billion,26,Billion,12,Billion
+930,GAIL India,India,16,Billion,1,Billion,15,Billion,16,Billion
+931,Moody's,United States,6,Billion,2,Billion,15,Billion,76,Billion
+932,Restaurant Brands International,Canada,7,Billion,1,Billion,23,Billion,22,Billion
+933,Eversource Energy,United States,11,Billion,-412,Million,57,Billion,22,Billion
+934,Bank Pekao,Poland,6,Billion,2,Billion,80,Billion,11,Billion
+935,Teva Pharmaceutical,Israel,16,Billion,-429,Million,43,Billion,19,Billion
+936,Db Insurance,South Korea,12,Billion,1,Billion,44,Billion,5,Billion
+937,Legrand,France,9,Billion,1,Billion,17,Billion,29,Billion
+938,Rakuten,Japan,15,Billion,-2,Billion,158,Billion,11,Billion
+939,Conagra Brands,United States,12,Billion,952,Million,22,Billion,15,Billion
+940,Kellanova,United States,14,Billion,920,Million,15,Billion,21,Billion
+941,Schindler Holding,Switzerland,13,Billion,964,Million,13,Billion,28,Billion
+942,Air France-KLM,France,33,Billion,686,Million,38,Billion,3,Billion
+943,TBEA,China,13,Billion,1,Billion,28,Billion,10,Billion
+944,Bank Negara Indonesia,Indonesia,5,Billion,1,Billion,67,Billion,12,Billion
+945,Welltower,United States,7,Billion,442,Million,45,Billion,61,Billion
+946,Ericsson,Sweden,24,Billion,-2,Billion,28,Billion,19,Billion
+947,Indian Bank,India,8,Billion,1,Billion,95,Billion,9,Billion
+948,DSM-Firmenich,Switzerland,12,Billion,-705,Million,38,Billion,31,Billion
+949,Waste Connections,Canada,8,Billion,794,Million,19,Billion,43,Billion
+950,Techtronic Industries,Hong Kong,14,Billion,976,Million,12,Billion,25,Billion
+951,Raizen,Brazil,44,Billion,802,Million,26,Billion,6,Billion
+952,Anta Sports Products,China,9,Billion,1,Billion,13,Billion,32,Billion
+953,Kyushu Electric Power,Japan,15,Billion,1,Billion,38,Billion,5,Billion
+954,Kone,Finland,12,Billion,1,Billion,9,Billion,28,Billion
+955,Semiconductor Manufacturing International,China,6,Billion,903,Million,48,Billion,17,Billion
+956,ItaÃºsa,Brazil,2,Billion,3,Billion,22,Billion,21,Billion
+957,Halkbank,Turkey,16,Billion,658,Million,78,Billion,4,Billion
+958,MOL Hungarian Oil,Hungary,25,Billion,1,Billion,22,Billion,6,Billion
+959,China Reinsurance Group,China,14,Billion,793,Million,61,Billion,3,Billion
+960,Formosa Petrochemical,Taiwan,22,Billion,715,Million,13,Billion,21,Billion
+961,Vedanta Limited,India,17,Billion,512,Million,23,Billion,20,Billion
+962,Ferrari,Italy,7,Billion,1,Billion,9,Billion,76,Billion
+963,Shanghai International Port,China,5,Billion,2,Billion,29,Billion,18,Billion
+964,Reliance Steel,United States,15,Billion,1,Billion,11,Billion,17,Billion
+965,Yuanta Financial Holding,Taiwan,5,Billion,852,Million,108,Billion,13,Billion
+966,NVR,United States,10,Billion,2,Billion,7,Billion,24,Billion
+967,Penske Automotive,United States,30,Billion,970,Million,16,Billion,10,Billion
+968,St. James's Place,United Kingdom,24,Billion,-13,Million,220,Billion,3,Billion
+969,China Bohai Bank,China,10,Billion,728,Million,245,Billion,3,Billion
+970,China Three Gorges Renewables (Group),China,4,Billion,1000,Million,45,Billion,18,Billion
+971,Tongwei,China,17,Billion,584,Million,25,Billion,14,Billion
+972,SCB X Public Company ,Thailand,6,Billion,1,Billion,93,Billion,10,Billion
+973,Vestas Wind Systems,Denmark,17,Billion,-6,Million,24,Billion,28,Billion
+974,KE Holdings,China,11,Billion,841,Million,17,Billion,25,Billion
+975,Dassault Systemes,France,7,Billion,1,Billion,16,Billion,54,Billion
+976,DiDi Global,China,27,Billion,70,Million,20,Billion,23,Billion
+977,SK Innovation ,South Korea,58,Billion,239,Million,64,Billion,8,Billion
+978,CGI,Canada,11,Billion,1,Billion,12,Billion,24,Billion
+979,American Water Works,United States,4,Billion,959,Million,31,Billion,26,Billion
+980,Textron,United States,14,Billion,931,Million,16,Billion,17,Billion
+981,Pembina Pipeline,Canada,6,Billion,1,Billion,25,Billion,20,Billion
+982,Banque Saudi Fransi,Saudi Arabia,4,Billion,1,Billion,72,Billion,12,Billion
+983,Fosun International,China,28,Billion,199,Million,114,Billion,5,Billion
+984,Zimmer Biomet,United States,8,Billion,964,Million,22,Billion,25,Billion
+985,Bangkok Bank,Thailand,7,Billion,1,Billion,125,Billion,7,Billion
+986,China National Chemical,China,25,Billion,771,Million,30,Billion,7,Billion
+987,Yum! Brands,United States,7,Billion,2,Billion,6,Billion,40,Billion
+988,Lithia Motors,United States,33,Billion,935,Million,22,Billion,7,Billion
+989,Aena,Spain,5,Billion,2,Billion,19,Billion,29,Billion
+990,Lonza Group,Switzerland,8,Billion,728,Million,20,Billion,42,Billion
+991,Synopsys,United States,6,Billion,1,Billion,11,Billion,87,Billion
+992,United Microelectronics,Taiwan,7,Billion,2,Billion,18,Billion,21,Billion
+993,Uni-President,Taiwan,19,Billion,600,Million,21,Billion,14,Billion
+994,China Cinda Asset Management,China,8,Billion,830,Million,225,Billion,4,Billion
+995,Nongfu Spring,China,6,Billion,2,Billion,7,Billion,67,Billion
+996,Scor,France,21,Billion,755,Million,35,Billion,6,Billion
+997,E.Sun Financial,Taiwan,4,Billion,698,Million,117,Billion,14,Billion
+998,Rockwell Automation,United States,9,Billion,1,Billion,11,Billion,31,Billion
+999,Santos,Australia,6,Billion,1,Billion,31,Billion,16,Billion
+1000,Kirin Holdings,Japan,15,Billion,920,Million,20,Billion,12,Billion
+1001,Snam,Italy,5,Billion,1,Billion,37,Billion,17,Billion
+1002,Abu Dhabi Islamic Bank,United Arab Emirates,4,Billion,1,Billion,53,Billion,12,Billion
+1003,KT ,South Korea,20,Billion,812,Million,32,Billion,7,Billion
+1004,Sungrow Power Supply  ,China,10,Billion,1,Billion,12,Billion,21,Billion
+1005,Air Canada,Canada,16,Billion,2,Billion,22,Billion,5,Billion
+1006,CarMax,United States,27,Billion,479,Million,28,Billion,12,Billion
+1007,Dover,United States,9,Billion,2,Billion,12,Billion,25,Billion
+1008,Zhejiang Zheneng Electric Power,China,14,Billion,1,Billion,20,Billion,11,Billion
+1009,Sunac China Holdings,China,22,Billion,-1,Billion,138,Billion,2,Billion
+1010,Ferrovial,Spain,9,Billion,497,Million,29,Billion,30,Billion
+1011,PBF Energy,United States,38,Billion,2,Billion,14,Billion,6,Billion
+1012,Sanlam,South Africa,11,Billion,784,Million,53,Billion,8,Billion
+1013,Ulta Beauty,United States,11,Billion,1,Billion,6,Billion,19,Billion
+1014,Yamaha Motor,Japan,17,Billion,1,Billion,19,Billion,9,Billion
+1015,All Nippon Airways,Japan,14,Billion,1,Billion,24,Billion,9,Billion
+1016,Viatris,United States,15,Billion,-56,Million,47,Billion,13,Billion
+1017,Chunghwa Telecom,Taiwan,7,Billion,1,Billion,17,Billion,30,Billion
+1018,Live Nation Entertainment,United States,23,Billion,252,Million,20,Billion,22,Billion
+1019,Arab National Bank,Saudi Arabia,4,Billion,1,Billion,62,Billion,12,Billion
+1020,Coles Group,Australia,28,Billion,705,Million,13,Billion,15,Billion
+1021,XCMG Construction Machinery,China,13,Billion,754,Million,23,Billion,13,Billion
+1022,GS Holdings,South Korea,19,Billion,958,Million,26,Billion,3,Billion
+1023,Franklin Resources,United States,8,Billion,860,Million,33,Billion,13,Billion
+1024,Ametek,United States,7,Billion,1,Billion,15,Billion,39,Billion
+1025,Extra Space Storage,United States,3,Billion,819,Million,28,Billion,32,Billion
+1026,East West Bancorp,United States,4,Billion,1,Billion,71,Billion,11,Billion
+1027,Flutter Entertainment,Ireland,12,Billion,-1,Billion,24,Billion,37,Billion
+1028,First Financial Holding,Taiwan,5,Billion,721,Million,144,Billion,12,Billion
+1029,Electronic Arts,United States,8,Billion,1,Billion,13,Billion,34,Billion
+1030,Experian,Ireland,7,Billion,1,Billion,12,Billion,43,Billion
+1031,Beiersdorf,Germany,10,Billion,796,Million,14,Billion,35,Billion
+1032,Nippon Paint,Japan,10,Billion,854,Million,19,Billion,18,Billion
+1033,Avis Budget Group,United States,12,Billion,1,Billion,34,Billion,4,Billion
+1034,Edwards Lifesciences,United States,6,Billion,1,Billion,10,Billion,54,Billion
+1035,Agilent Technologies,United States,7,Billion,1,Billion,11,Billion,45,Billion
+1036,Shenzhen Mindray Bio-Medical Electronics,China,5,Billion,2,Billion,7,Billion,52,Billion
+1037,Brookfield Reinsurance,Bermuda,8,Billion,1,Billion,60,Billion,5,Billion
+1038,Givaudan,Switzerland,8,Billion,994,Million,13,Billion,43,Billion
+1039,Fastenal,United States,7,Billion,1,Billion,5,Billion,38,Billion
+1040,Vienna Insurance Group,Austria,13,Billion,596,Million,52,Billion,9,Billion
+1041,Brookfield Renewable,United States,4,Billion,1,Billion,44,Billion,12,Billion
+1042,Qatar Islamic Bank,Qatar,2,Billion,1,Billion,53,Billion,11,Billion
+1043,Globalfoundries,United States,7,Billion,899,Million,19,Billion,30,Billion
+1044,Jinko Solar,China,17,Billion,970,Million,18,Billion,10,Billion
+1045,China Resources Pharmaceutical Group,Hong Kong,35,Billion,544,Million,35,Billion,5,Billion
+1046,HD HYUNDAI,South Korea,48,Billion,307,Million,52,Billion,4,Billion
+1047,International Flavors & Fragrances,United States,11,Billion,-3,Billion,31,Billion,26,Billion
+1048,Adani Power Limited,India,6,Billion,3,Billion,11,Billion,29,Billion
+1049,Eurobank Ergasias,Greece,6,Billion,1,Billion,86,Billion,8,Billion
+1050,Shaanxi Construction Engineering Group,China,24,Billion,516,Million,46,Billion,2,Billion
+1051,Voya Financial,United States,8,Billion,793,Million,150,Billion,8,Billion
+1052,Sany Heavy Industry,China,10,Billion,641,Million,21,Billion,20,Billion
+1053,Bank of India,India,8,Billion,793,Million,111,Billion,7,Billion
+1054,Dick's Sporting Goods,United States,13,Billion,1,Billion,10,Billion,16,Billion
+1055,Bank of Changsha,China,7,Billion,1,Billion,147,Billion,5,Billion
+1056,Luzhou Lao Jiao,China,4,Billion,2,Billion,10,Billion,39,Billion
+1057,Israel Discount Bank,Israel,7,Billion,1,Billion,110,Billion,6,Billion
+1058,China Development Financial,Taiwan,10,Billion,608,Million,119,Billion,8,Billion
+1059,Adani Enterprises,India,13,Billion,391,Million,19,Billion,42,Billion
+1060,T Rowe Price,United States,7,Billion,2,Billion,13,Billion,26,Billion
+1061,Paychex,United States,5,Billion,2,Billion,13,Billion,45,Billion
+1062,Shanghai Construction ,China,44,Billion,222,Million,49,Billion,3,Billion
+1063,Greentown China Holdings,China,19,Billion,443,Million,76,Billion,3,Billion
+1064,Orsted,Denmark,8,Billion,-3,Billion,42,Billion,26,Billion
+1065,Shanxi Xinghuacun Fen Wine Factory,China,4,Billion,2,Billion,7,Billion,45,Billion
+1066,Paramount,United States,30,Billion,-481,Million,52,Billion,8,Billion
+1067,Arca Continental,Mexico,12,Billion,987,Million,14,Billion,17,Billion
+1068,Wuchan Zhongda Group,China,82,Billion,485,Million,28,Billion,4,Billion
+1069,Baxter International,United States,15,Billion,-233,Million,28,Billion,18,Billion
+1070,Copart,United States,4,Billion,1,Billion,8,Billion,52,Billion
+1071,Shanghai Pharmaceuticals,China,37,Billion,530,Million,30,Billion,6,Billion
+1072,China CSSC Holdings,China,11,Billion,462,Million,25,Billion,22,Billion
+1073,Darden Restaurants,United States,11,Billion,1,Billion,11,Billion,18,Billion
+1074,LPL Financial Holdings,United States,11,Billion,1,Billion,11,Billion,20,Billion
+1075,Jacobs Solutions,United States,17,Billion,657,Million,15,Billion,17,Billion
+1076,Guosen Securities,China,3,Billion,821,Million,66,Billion,12,Billion
+1077,Vonovia,Germany,5,Billion,-4,Billion,102,Billion,26,Billion
+1078,National Bank of Greece,Greece,4,Billion,1,Billion,78,Billion,8,Billion
+1079,GF Securities,China,5,Billion,1,Billion,93,Billion,9,Billion
+1080,Hua Nan Financial,Taiwan,5,Billion,694,Million,126,Billion,11,Billion
+1081,WestRock,United States,20,Billion,305,Million,27,Billion,14,Billion
+1082,Coterra Energy ,United States,5,Billion,1,Billion,21,Billion,21,Billion
+1083,EXOR,Netherlands,3,Billion,3,Billion,15,Billion,24,Billion
+1084,SBI Holdings,Japan,8,Billion,603,Million,180,Billion,8,Billion
+1085,Hormel Foods,United States,12,Billion,795,Million,14,Billion,20,Billion
+1086,Nedbank,South Africa,8,Billion,838,Million,72,Billion,6,Billion
+1087,M&G,United Kingdom,14,Billion,369,Million,240,Billion,6,Billion
+1088,Vulcan Materials,United States,8,Billion,915,Million,14,Billion,34,Billion
+1089,WPP,United Kingdom,19,Billion,137,Million,34,Billion,12,Billion
+1090,Cadence Design,United States,4,Billion,1,Billion,6,Billion,79,Billion
+1091,AvalonBay Communities,United States,3,Billion,954,Million,21,Billion,28,Billion
+1092,Ternium,Luxembourg,19,Billion,663,Million,25,Billion,9,Billion
+1093,Antofagasta,United Kingdom,6,Billion,834,Million,20,Billion,30,Billion
+1094,China Merchants Securities,China,4,Billion,1,Billion,98,Billion,8,Billion
+1095,Spotify Technology,Luxembourg,15,Billion,-119,Million,10,Billion,59,Billion
+1096,Grupo Carso,Mexico,11,Billion,738,Million,15,Billion,20,Billion
+1097,Osaka Gas,Japan,14,Billion,918,Million,20,Billion,9,Billion
+1098,Interpublic Group,United States,11,Billion,1,Billion,17,Billion,12,Billion
+1099,Kaspi.kz JSC,Kazakhstan,5,Billion,2,Billion,15,Billion,23,Billion
+1100,APA,United States,8,Billion,3,Billion,15,Billion,12,Billion
+1101,WH Group ,Hong Kong,26,Billion,629,Million,19,Billion,9,Billion
+1102,Agnico Eagle Mines,Canada,7,Billion,466,Million,29,Billion,35,Billion
+1103,J Sainsbury,United Kingdom,41,Billion,171,Million,32,Billion,8,Billion
+1104,Julius Baer Group,Switzerland,7,Billion,505,Million,115,Billion,12,Billion
+1105,Ingersoll Rand,United States,7,Billion,820,Million,16,Billion,37,Billion
+1106,WEG,Brazil,7,Billion,1,Billion,6,Billion,33,Billion
+1107,Euronext,Netherlands,2,Billion,604,Million,239,Billion,10,Billion
+1108,US Steel,United States,18,Billion,867,Million,20,Billion,8,Billion
+1109,Taiwan Cooperative Financial,Taiwan,4,Billion,544,Million,157,Billion,12,Billion
+1110,Toll Brothers,United States,10,Billion,1,Billion,13,Billion,14,Billion
+1111,Arrow Electronics,United States,31,Billion,713,Million,20,Billion,7,Billion
+1112,Western Digital,United States,12,Billion,-2,Billion,24,Billion,24,Billion
+1113,The Mosaic Company,United States,13,Billion,775,Million,23,Billion,10,Billion
+1114,Fortinet,United States,5,Billion,1,Billion,8,Billion,47,Billion
+1115,ENN Natural Gas,China,20,Billion,936,Million,19,Billion,8,Billion
+1116,Kajima,Japan,18,Billion,796,Million,21,Billion,8,Billion
+1117,ENN Energy Holdings,China,16,Billion,962,Million,15,Billion,11,Billion
+1118,Acciona,Spain,18,Billion,585,Million,35,Billion,7,Billion
+1119,UPM-Kymmene,Finland,11,Billion,525,Million,20,Billion,20,Billion
+1120,Guangzhou Automobile Group,China,18,Billion,630,Million,31,Billion,5,Billion
+1121,DaVita,United States,12,Billion,816,Million,17,Billion,12,Billion
+1122,CNPC Capital,China,6,Billion,623,Million,141,Billion,11,Billion
+1123,Constellation Software,Canada,9,Billion,576,Million,12,Billion,58,Billion
+1124,Hoya,Japan,5,Billion,1,Billion,8,Billion,43,Billion
+1125,Banca Mediolanum,Italy,3,Billion,937,Million,85,Billion,9,Billion
+1126,Amcor,United Kingdom,14,Billion,653,Million,17,Billion,15,Billion
+1127,Xylem,United States,8,Billion,663,Million,16,Billion,35,Billion
+1128,Marathon Oil,United States,6,Billion,1,Billion,20,Billion,15,Billion
+1129,International Paper,United States,19,Billion,186,Million,23,Billion,14,Billion
+1130,El Puerto de Liverpool,Mexico,12,Billion,1,Billion,15,Billion,12,Billion
+1131,EMCOR Group,United States,13,Billion,719,Million,7,Billion,18,Billion
+1132,Old Dominion Freight Line,United States,6,Billion,1,Billion,6,Billion,40,Billion
+1133,Vibra Energia,Brazil,33,Billion,1,Billion,9,Billion,5,Billion
+1134,ICON (Ireland),Ireland,8,Billion,683,Million,17,Billion,26,Billion
+1135,US Foods,United States,36,Billion,506,Million,13,Billion,14,Billion
+1136,Hexagon ,Sweden,6,Billion,920,Million,18,Billion,30,Billion
+1137,Top Frontier Investment Holdings,Philippines,26,Billion,-48,Million,47,Billion,586,Million
+1138,Weyerhaeuser,United States,8,Billion,802,Million,17,Billion,23,Billion
+1139,Atmos Energy,United States,4,Billion,999,Million,24,Billion,18,Billion
+1140,Terna,Italy,3,Billion,957,Million,26,Billion,17,Billion
+1141,Assurant,United States,11,Billion,765,Million,27,Billion,9,Billion
+1142,Cathay Pacific Airways,Hong Kong,12,Billion,1,Billion,22,Billion,7,Billion
+1143,Korea Gas,South Korea,30,Billion,-375,Million,42,Billion,2,Billion
+1144,LKQ,United States,14,Billion,831,Million,15,Billion,12,Billion
+1145,XP,Brazil,3,Billion,783,Million,51,Billion,12,Billion
+1146,Asustek Computer,Taiwan,16,Billion,734,Million,16,Billion,12,Billion
+1147,Telecom Italia,Italy,18,Billion,-2,Billion,69,Billion,6,Billion
+1148,Industrivarden,Sweden,1,Billion,3,Billion,16,Billion,15,Billion
+1149,Echostar,United States,21,Billion,-2,Billion,56,Billion,5,Billion
+1150,Krung Thai Bank,Thailand,6,Billion,1,Billion,102,Billion,7,Billion
+1151,Vivendi,France,11,Billion,438,Million,42,Billion,11,Billion
+1152,Cemex,Mexico,18,Billion,204,Million,29,Billion,12,Billion
+1153,NARI Technology Development,China,7,Billion,1,Billion,12,Billion,26,Billion
+1154,China Tourism Group Duty Free ,China,9,Billion,937,Million,11,Billion,20,Billion
+1155,Equity Residential,United States,3,Billion,919,Million,20,Billion,25,Billion
+1156,Prysmian,Italy,16,Billion,577,Million,15,Billion,17,Billion
+1157,Garmin,Switzerland,6,Billion,1,Billion,9,Billion,33,Billion
+1158,MSCI,United States,3,Billion,1,Billion,6,Billion,40,Billion
+1159,Japan Exchange Group,Japan,1,Billion,421,Million,533,Billion,12,Billion
+1160,Owens Corning,United States,10,Billion,1,Billion,11,Billion,15,Billion
+1161,Sun Pharma Industries,India,6,Billion,1,Billion,10,Billion,44,Billion
+1162,Amadeus IT Group ,Spain,6,Billion,1,Billion,12,Billion,31,Billion
+1163,Wolters Kluwer,Netherlands,6,Billion,1,Billion,10,Billion,38,Billion
+1164,Bankinter,Spain,5,Billion,913,Million,125,Billion,8,Billion
+1165,American Financial Group,United States,8,Billion,882,Million,24,Billion,11,Billion
+1166,SK Telecom,South Korea,13,Billion,862,Million,23,Billion,8,Billion
+1167,Investec,United Kingdom,6,Billion,1,Billion,70,Billion,6,Billion
+1168,Chow Tai Fook Jewellery,Hong Kong,13,Billion,843,Million,11,Billion,14,Billion
+1169,Fortive,United States,6,Billion,900,Million,18,Billion,27,Billion
+1170,Sunshine Insurance Group,China,11,Billion,535,Million,72,Billion,5,Billion
+1171,First Horizon,United States,5,Billion,838,Million,82,Billion,9,Billion
+1172,Rexel,France,21,Billion,838,Million,15,Billion,9,Billion
+1173,Ball,United States,13,Billion,-480,Million,20,Billion,22,Billion
+1174,Caesars Entertainment,United States,11,Billion,764,Million,33,Billion,8,Billion
+1175,Howmet Aerospace,United States,7,Billion,860,Million,10,Billion,34,Billion
+1176,SMC,Japan,5,Billion,1,Billion,14,Billion,34,Billion
+1177,ThyssenKrupp Group,Germany,39,Billion,-3,Billion,33,Billion,3,Billion
+1178,Banco Comercial Portugues,Portugal,6,Billion,951,Million,106,Billion,6,Billion
+1179,Attijariwafa Bank,Morocco,4,Billion,741,Million,67,Billion,10,Billion
+1180,YPF ,Argentina,18,Billion,-2,Billion,27,Billion,12,Billion
+1181,Stanley Black & Decker,United States,16,Billion,-75,Million,24,Billion,14,Billion
+1182,SQM,Chile,7,Billion,2,Billion,12,Billion,14,Billion
+1183,Mitsubishi Motors,Japan,19,Billion,1,Billion,16,Billion,4,Billion
+1184,CJ Corporation,South Korea,32,Billion,193,Million,36,Billion,4,Billion
+1185,China Galaxy Securities,China,4,Billion,990,Million,94,Billion,7,Billion
+1186,West Japan Railway,Japan,11,Billion,683,Million,25,Billion,10,Billion
+1187,Chugoku Electric Power,Japan,11,Billion,923,Million,27,Billion,2,Billion
+1188,Telenor,Norway,8,Billion,699,Million,22,Billion,17,Billion
+1189,Universal Health Services,United States,15,Billion,816,Million,14,Billion,12,Billion
+1190,Metro,Canada,16,Billion,727,Million,10,Billion,13,Billion
+1191,Partners Group Holding,Switzerland,2,Billion,1,Billion,6,Billion,36,Billion
+1192,Hydro One,Canada,6,Billion,813,Million,25,Billion,18,Billion
+1193,China Southern Airlines,China,23,Billion,-590,Million,44,Billion,7,Billion
+1194,Bayan Resources,Indonesia,3,Billion,1,Billion,3,Billion,40,Billion
+1195,Vietin Bank,Vietnam,6,Billion,837,Million,84,Billion,7,Billion
+1196,Olympus,Japan,7,Billion,2,Billion,10,Billion,18,Billion
+1197,StoneX Group,United States,73,Billion,234,Million,26,Billion,2,Billion
+1198,Yum China Holdings,China,11,Billion,825,Million,11,Billion,15,Billion
+1199,Korean Air,South Korea,13,Billion,909,Million,23,Billion,6,Billion
+1200,Autodesk,United States,5,Billion,906,Million,10,Billion,48,Billion
+1201,Towngas,Hong Kong,7,Billion,775,Million,21,Billion,15,Billion
+1202,WESCO International,United States,22,Billion,684,Million,16,Billion,9,Billion
+1203,Westlake Chemical,United States,12,Billion,257,Million,21,Billion,20,Billion
+1204,Shenzhen Transsion Holding,China,10,Billion,926,Million,7,Billion,15,Billion
+1205,Williams-Sonoma,United States,8,Billion,950,Million,5,Billion,20,Billion
+1206,J.B. Hunt Transport Services,United States,13,Billion,658,Million,8,Billion,17,Billion
+1207,Smurfit Kappa Group,Ireland,12,Billion,821,Million,15,Billion,12,Billion
+1208,Jyske Bank,Denmark,5,Billion,831,Million,112,Billion,5,Billion
+1209,Cellnex Telecom,Spain,4,Billion,-267,Million,47,Billion,27,Billion
+1210,Seazen Group,China,17,Billion,-41,Million,54,Billion,2,Billion
+1211,Forvia,France,30,Billion,247,Million,34,Billion,3,Billion
+1212,InterGlobe Aviation,India,8,Billion,871,Million,9,Billion,20,Billion
+1213,AutoNation,United States,27,Billion,923,Million,12,Billion,7,Billion
+1214,IDEXX Laboratories,United States,4,Billion,867,Million,3,Billion,45,Billion
+1215,Sodexo,France,25,Billion,303,Million,17,Billion,14,Billion
+1216,Dassault Aviation,France,5,Billion,750,Million,26,Billion,18,Billion
+1217,Grupo De Inversiones Suramericana,Colombia,10,Billion,1,Billion,22,Billion,6,Billion
+1218,Oriental Land,Japan,4,Billion,831,Million,9,Billion,48,Billion
+1219,Adani Ports & Special Economic Zone,India,3,Billion,980,Million,14,Billion,35,Billion
+1220,Piraeus Financial Holdings,Greece,4,Billion,911,Million,83,Billion,5,Billion
+1221,Performance Food Group,United States,58,Billion,420,Million,13,Billion,12,Billion
+1222,Webster Financial,United States,4,Billion,855,Million,76,Billion,8,Billion
+1223,iA Financial Corporation,Canada,9,Billion,556,Million,70,Billion,7,Billion
+1224,Gerdau (Cosigua),Brazil,13,Billion,1,Billion,15,Billion,8,Billion
+1225,Brenntag,Germany,18,Billion,694,Million,12,Billion,11,Billion
+1226,Hunan Valin Steel,China,23,Billion,667,Million,19,Billion,5,Billion
+1227,Kobe Steel,Japan,18,Billion,758,Million,19,Billion,5,Billion
+1228,Quest Diagnostics,United States,9,Billion,842,Million,14,Billion,16,Billion
+1229,Bunzl,United Kingdom,15,Billion,654,Million,11,Billion,13,Billion
+1230,GoDaddy,United States,4,Billion,2,Billion,8,Billion,19,Billion
+1231,Compagnie de l'Odet,France,15,Billion,133,Million,57,Billion,7,Billion
+1232,Pan Pacific International Holdings,Japan,14,Billion,600,Million,10,Billion,15,Billion
+1233,AntarChile,Chile,30,Billion,236,Million,30,Billion,4,Billion
+1234,Astellas Pharma,Japan,11,Billion,89,Million,24,Billion,17,Billion
+1235,Huadian Power International,China,16,Billion,511,Million,32,Billion,6,Billion
+1236,Swatch Group,Switzerland,9,Billion,967,Million,17,Billion,11,Billion
+1237,Randstad N.V.,Netherlands,27,Billion,605,Million,12,Billion,10,Billion
+1238,Origin Energy,Australia,10,Billion,1,Billion,13,Billion,11,Billion
+1239,Jiangsu Eastern Shenghong,China,20,Billion,27,Million,28,Billion,9,Billion
+1240,ResMed,United States,5,Billion,958,Million,7,Billion,32,Billion
+1241,BCI-Banco Credito,Chile,5,Billion,823,Million,88,Billion,7,Billion
+1242,Jiangsu Yanghe Brewery,China,4,Billion,1,Billion,10,Billion,20,Billion
+1243,Bank Of Guiyang,China,4,Billion,767,Million,100,Billion,3,Billion
+1244,Norsk Hydro,Norway,18,Billion,306,Million,20,Billion,13,Billion
+1245,Zhongyuan Bank,China,8,Billion,451,Million,190,Billion,2,Billion
+1246,Vipshop Holdings,China,16,Billion,1,Billion,10,Billion,8,Billion
+1247,SinoPac Financial,Taiwan,4,Billion,634,Million,90,Billion,9,Billion
+1248,Industries Qatar,Qatar,3,Billion,1,Billion,11,Billion,20,Billion
+1249,Grupo Galicia,Argentina,20,Billion,1,Billion,13,Billion,7,Billion
+1250,Csc Financial,China,5,Billion,863,Million,74,Billion,7,Billion
+1251,Datang International Power,China,17,Billion,-22,Million,43,Billion,4,Billion
+1252,Pegatron,Taiwan,38,Billion,508,Million,16,Billion,9,Billion
+1253,Evolution Gaming Group AB,Sweden,2,Billion,1,Billion,5,Billion,23,Billion
+1254,Keppel,Singapore,5,Billion,3,Billion,20,Billion,9,Billion
+1255,Olam Group,Singapore,36,Billion,208,Million,26,Billion,3,Billion
+1256,S-Oil,South Korea,27,Billion,644,Million,17,Billion,6,Billion
+1257,A2A,Italy,14,Billion,846,Million,19,Billion,7,Billion
+1258,China International Capital,China,5,Billion,779,Million,88,Billion,7,Billion
+1259,IDBI Bank,India,4,Billion,699,Million,44,Billion,11,Billion
+1260,Dongguan Rural Commercial Bank,China,4,Billion,735,Million,100,Billion,6,Billion
+1261,NiSource,United States,5,Billion,746,Million,29,Billion,13,Billion
+1262,Helvetia Holding,Switzerland,12,Billion,315,Million,72,Billion,8,Billion
+1263,Yuexiu Property ,Hong Kong,11,Billion,454,Million,57,Billion,3,Billion
+1264,Bajaj Auto,India,5,Billion,931,Million,5,Billion,29,Billion
+1265,Grupo Aval,Colombia,11,Billion,104,Million,79,Billion,3,Billion
+1266,BAIC Motor,China,28,Billion,437,Million,24,Billion,2,Billion
+1267,Alstom,France,19,Billion,-335,Million,36,Billion,8,Billion
+1268,BÃ¢loise Group,Switzerland,11,Billion,267,Million,92,Billion,8,Billion
+1269,Masco,United States,8,Billion,918,Million,5,Billion,16,Billion
+1270,Gartner,United States,6,Billion,797,Million,8,Billion,35,Billion
+1271,Keysight Technologies,United States,5,Billion,969,Million,9,Billion,28,Billion
+1272,Evergy,United States,6,Billion,711,Million,31,Billion,13,Billion
+1273,Adyen,Netherlands,2,Billion,755,Million,11,Billion,42,Billion
+1274,Bank of Chongqing,China,4,Billion,697,Million,108,Billion,2,Billion
+1275,Ajinomoto,Japan,10,Billion,603,Million,12,Billion,20,Billion
+1276,Alpha Bank,Greece,5,Billion,771,Million,80,Billion,4,Billion
+1277,Solventum,United States,8,Billion,1,Billion,15,Billion,11,Billion
+1278,Brown & Brown,United States,4,Billion,915,Million,15,Billion,26,Billion
+1279,Sojitz,Japan,17,Billion,697,Million,19,Billion,6,Billion
+1280,Halyk Bank,Kazakhstan,5,Billion,2,Billion,36,Billion,5,Billion
+1281,Fanuc,Japan,6,Billion,921,Million,13,Billion,28,Billion
+1282,Shriram Transport Finance Co.,India,4,Billion,890,Million,30,Billion,11,Billion
+1283,Hyundai Marine & Fire,South Korea,11,Billion,624,Million,32,Billion,2,Billion
+1284,Asahi Kasei,Japan,19,Billion,303,Million,24,Billion,9,Billion
+1285,Jefferies Financial ,United States,8,Billion,305,Million,61,Billion,10,Billion
+1286,Labcorp,United States,12,Billion,433,Million,17,Billion,18,Billion
+1287,Old Mutual,South Africa,12,Billion,383,Million,63,Billion,3,Billion
+1288,Xiamen International Trade Group,China,62,Billion,166,Million,21,Billion,2,Billion
+1289,EQT,United States,5,Billion,620,Million,25,Billion,18,Billion
+1290,AGCO,United States,14,Billion,1,Billion,14,Billion,8,Billion
+1291,NetApp,United States,6,Billion,940,Million,9,Billion,23,Billion
+1292,Voestalpine,Austria,18,Billion,677,Million,18,Billion,5,Billion
+1293,Verisk Analytics,United States,3,Billion,778,Million,5,Billion,36,Billion
+1294,Corpay,United States,4,Billion,997,Million,16,Billion,20,Billion
+1295,Marfrig Global Foods,Brazil,27,Billion,-167,Million,26,Billion,2,Billion
+1296,Eastman,United States,9,Billion,925,Million,15,Billion,12,Billion
+1297,Western Alliance Bancorp.,United States,5,Billion,758,Million,77,Billion,7,Billion
+1298,Bank Albilad,Saudi Arabia,3,Billion,654,Million,38,Billion,12,Billion
+1299,Leidos,United States,16,Billion,321,Million,13,Billion,20,Billion
+1300,PGE Polska Grupa Energetyczna,Poland,23,Billion,-1,Billion,29,Billion,4,Billion
+1301,China Eastern Airlines,China,16,Billion,-1,Billion,40,Billion,6,Billion
+1302,Tourmaline Oil,Canada,4,Billion,1,Billion,15,Billion,17,Billion
+1303,Kerry Group,Ireland,9,Billion,787,Million,13,Billion,15,Billion
+1304,Kingspan Group PLC,Ireland,9,Billion,692,Million,9,Billion,18,Billion
+1305,Zhongsheng Group Holdings,China,25,Billion,712,Million,15,Billion,5,Billion
+1306,Dongfeng Motor Group,China,14,Billion,-543,Million,47,Billion,3,Billion
+1307,DexCom,United States,4,Billion,639,Million,7,Billion,52,Billion
+1308,Mettler-Toledo International,United States,4,Billion,778,Million,3,Billion,33,Billion
+1309,HBIS,China,17,Billion,138,Million,36,Billion,3,Billion
+1310,AGNC Investment,United States,3,Billion,749,Million,72,Billion,7,Billion
+1311,ZTO Express (Cayman),China,6,Billion,1,Billion,12,Billion,19,Billion
+1312,Shanghai Electric Group,China,16,Billion,-6,Million,39,Billion,3,Billion
+1313,DoorDash,United States,9,Billion,-420,Million,11,Billion,48,Billion
+1314,Tianshan Material,China,14,Billion,178,Million,42,Billion,8,Billion
+1315,Campbell Soup,United States,9,Billion,766,Million,12,Billion,14,Billion
+1316,Marvell Technology,United States,6,Billion,-933,Million,21,Billion,62,Billion
+1317,Bank of Greece,Greece,8,Billion,107,Million,250,Billion,309,Million
+1318,Expeditors International,United States,9,Billion,696,Million,5,Billion,17,Billion
+1319,Hyundai Glovis,South Korea,20,Billion,821,Million,12,Billion,5,Billion
+1320,Storebrand,Norway,10,Billion,301,Million,89,Billion,5,Billion
+1321,Brown-Forman,United States,4,Billion,965,Million,8,Billion,23,Billion
+1322,Foshan Haitian Flavouring and Food,China,4,Billion,813,Million,5,Billion,29,Billion
+1323,Carvana,United States,11,Billion,638,Million,7,Billion,14,Billion
+1324,Wistron,Taiwan,29,Billion,472,Million,14,Billion,10,Billion
+1325,Alexandria Real Estate Equities,United States,3,Billion,184,Million,38,Billion,22,Billion
+1326,Beijing Enterprises,Hong Kong,11,Billion,702,Million,26,Billion,5,Billion
+1327,Coca-Cola HBC,Switzerland,11,Billion,689,Million,11,Billion,13,Billion
+1328,Rheinmetall,Germany,8,Billion,575,Million,13,Billion,24,Billion
+1329,Gemdale,China,13,Billion,15,Million,51,Billion,3,Billion
+1330,First Solar,United States,4,Billion,1,Billion,11,Billion,21,Billion
+1331,Evonik Industries,Germany,16,Billion,-386,Million,22,Billion,10,Billion
+1332,Terumo,Japan,6,Billion,736,Million,12,Billion,26,Billion
+1333,Robinhood Markets,United States,2,Billion,127,Million,46,Billion,18,Billion
+1334,BJ's Wholesale Club,United States,20,Billion,524,Million,7,Billion,11,Billion
+1335,Borouge,United Arab Emirates,6,Billion,1,Billion,9,Billion,20,Billion
+1336,Bank of Suzhou,China,3,Billion,664,Million,90,Billion,4,Billion
+1337,Solvay,Belgium,10,Billion,2,Billion,8,Billion,4,Billion
+1338,Comerica,United States,5,Billion,691,Million,79,Billion,7,Billion
+1339,Wuxi Apptec,China,6,Billion,2,Billion,10,Billion,15,Billion
+1340,Far East Horizon,Hong Kong,6,Billion,874,Million,50,Billion,4,Billion
+1341,Xiamen Xiangyu,China,61,Billion,200,Million,19,Billion,2,Billion
+1342,Ares Management,United States,4,Billion,435,Million,24,Billion,28,Billion
+1343,TUI,Germany,24,Billion,551,Million,18,Billion,4,Billion
+1344,Epiroc,Sweden,6,Billion,863,Million,7,Billion,25,Billion
+1345,Metropolitan Bank & Trust,Philippines,3,Billion,782,Million,57,Billion,6,Billion
+1346,Shopify,Canada,7,Billion,-200,Million,11,Billion,75,Billion
+1347,Next,United Kingdom,7,Billion,1,Billion,6,Billion,15,Billion
+1348,Church & Dwight,United States,6,Billion,780,Million,9,Billion,26,Billion
+1349,E-mart ,South Korea,22,Billion,-66,Million,25,Billion,1,Billion
+1350,Akzo Nobel,Netherlands,12,Billion,574,Million,16,Billion,12,Billion
+1351,Rede D'Oro Luiz,Brazil,10,Billion,518,Million,18,Billion,14,Billion
+1352,Obayashi,Japan,16,Billion,519,Million,20,Billion,8,Billion
+1353,STRABAG,Austria,19,Billion,682,Million,16,Billion,5,Billion
+1354,Grupo Elektra,Mexico,11,Billion,419,Million,27,Billion,11,Billion
+1355,Valeo,France,24,Billion,239,Million,24,Billion,3,Billion
+1356,Galaxy Entertainment,Hong Kong,3,Billion,872,Million,11,Billion,22,Billion
+1357,Qantas Airways,Australia,14,Billion,1,Billion,13,Billion,6,Billion
+1358,Bawag Group,Austria,3,Billion,738,Million,61,Billion,5,Billion
+1359,ACWA Power,Saudi Arabia,2,Billion,450,Million,15,Billion,90,Billion
+1360,Aristocrat Leisure,Australia,4,Billion,994,Million,7,Billion,20,Billion
+1361,Packaging Corp of America,United States,8,Billion,716,Million,9,Billion,16,Billion
+1362,Zions Bancorp,United States,5,Billion,624,Million,87,Billion,7,Billion
+1363,FinecoBank,Italy,2,Billion,659,Million,37,Billion,10,Billion
+1364,China Mengniu Dairy,Hong Kong,14,Billion,683,Million,16,Billion,9,Billion
+1365,Broadridge Financial,United States,6,Billion,699,Million,8,Billion,24,Billion
+1366,Aramark,United States,18,Billion,626,Million,13,Billion,9,Billion
+1367,Lindt & Sprungli,Switzerland,6,Billion,747,Million,10,Billion,27,Billion
+1368,Veralto,United States,5,Billion,798,Million,6,Billion,24,Billion
+1369,Qilu Bank,China,3,Billion,613,Million,87,Billion,4,Billion
+1370,Jiangsu Hengrui Medicine,China,3,Billion,618,Million,6,Billion,39,Billion
+1371,Hyundai Steel,South Korea,19,Billion,200,Million,26,Billion,3,Billion
+1372,Teledyne Technologies,United States,6,Billion,886,Million,15,Billion,19,Billion
+1373,Tokyo Century,Japan,9,Billion,499,Million,43,Billion,5,Billion
+1374,BBMG,China,14,Billion,-129,Million,38,Billion,1,Billion
+1375,China Jinmao,Hong Kong,10,Billion,-949,Million,57,Billion,2,Billion
+1376,Coloplast,Denmark,4,Billion,722,Million,7,Billion,28,Billion
+1377,Shin Kong Financial,Taiwan,7,Billion,-238,Million,161,Billion,4,Billion
+1378,Roivant Sciences,United Kingdom,123,Million,5,Billion,7,Billion,9,Billion
+1379,Carlsberg,Denmark,11,Billion,-6,Billion,17,Billion,19,Billion
+1380,McCormick,United States,7,Billion,708,Million,13,Billion,20,Billion
+1381,China Steel,Taiwan,12,Billion,97,Million,22,Billion,12,Billion
+1382,Shimao Property Holdings,Hong Kong,9,Billion,-3,Billion,77,Billion,641,Million
+1383,Banque Cantonale Vaudoise,Switzerland,2,Billion,522,Million,70,Billion,9,Billion
+1384,Ag Anadolu Grubu Holding Anonim Sirketi,Turkey,16,Billion,824,Million,13,Billion,3,Billion
+1385,Asian Paints,India,4,Billion,660,Million,4,Billion,32,Billion
+1386,Wens Foodstuff Group,China,13,Billion,-680,Million,13,Billion,20,Billion
+1387,Credito Emiliano,Italy,4,Billion,638,Million,71,Billion,4,Billion
+1388,China Merchants Expressway Network & Technology Holdings,China,2,Billion,936,Million,22,Billion,11,Billion
+1389,Annaly Capital Management,United States,6,Billion,-336,Million,92,Billion,10,Billion
+1390,Latam Airlines,Chile,12,Billion,725,Million,15,Billion,9,Billion
+1391,Dollarama,Canada,4,Billion,749,Million,4,Billion,25,Billion
+1392,Hong Leong Financial,Malaysia,3,Billion,638,Million,70,Billion,4,Billion
+1393,Chongqing Zhifei Biological Products,China,7,Billion,1,Billion,7,Billion,12,Billion
+1394,China Nuclear Engineering Corporation,China,15,Billion,295,Million,30,Billion,3,Billion
+1395,Murphy USA,United States,21,Billion,517,Million,4,Billion,9,Billion
+1396,Bank of Tianjin,China,5,Billion,524,Million,119,Billion,1,Billion
+1397,HPB,Croatia,3,Billion,707,Million,55,Billion,493,Million
+1398,Trina Solar,China,15,Billion,597,Million,18,Billion,6,Billion
+1399,Hotai Motor,Taiwan,9,Billion,753,Million,16,Billion,11,Billion
+1400,Korea Shipbuilding & Offshore Engineering,South Korea,17,Billion,417,Million,24,Billion,7,Billion
+1401,Aeroports de Paris,France,6,Billion,682,Million,22,Billion,14,Billion
+1402,China Resources Gas Group,Hong Kong,13,Billion,667,Million,18,Billion,8,Billion
+1403,Motor Oil,Greece,14,Billion,871,Million,8,Billion,3,Billion
+1404,Lumen Technologies,United States,14,Billion,-11,Billion,33,Billion,1,Billion
+1405,CF Industries Holdings,United States,6,Billion,1,Billion,14,Billion,14,Billion
+1406,RHB Bank,Malaysia,3,Billion,615,Million,72,Billion,5,Billion
+1407,CJ Cheiljedang,South Korea,22,Billion,357,Million,23,Billion,4,Billion
+1408,DISCO Corp.,Japan,2,Billion,582,Million,4,Billion,39,Billion
+1409,Avery Dennison,United States,9,Billion,554,Million,8,Billion,18,Billion
+1410,China Shipbuilding Industry,China,7,Billion,-99,Million,27,Billion,16,Billion
+1411,BNK Financial Group,South Korea,6,Billion,461,Million,111,Billion,2,Billion
+1412,Casey's General Stores,United States,15,Billion,471,Million,6,Billion,12,Billion
+1413,Huntington Ingalls Industries,United States,12,Billion,705,Million,11,Billion,10,Billion
+1414,Sandoz Group,Switzerland,10,Billion,77,Million,19,Billion,15,Billion
+1415,Guangdong Haid Group,China,16,Billion,445,Million,6,Billion,12,Billion
+1416,Lamb Weston Holdings,United States,7,Billion,1,Billion,7,Billion,13,Billion
+1417,LG Display,South Korea,17,Billion,-2,Billion,27,Billion,4,Billion
+1418,New World Development,Hong Kong,9,Billion,73,Million,60,Billion,3,Billion
+1419,Zhuhai Huafa Properties,China,9,Billion,230,Million,64,Billion,3,Billion
+1420,JDE Peet's,Netherlands,9,Billion,397,Million,26,Billion,12,Billion
+1421,Rithm Capital,United States,4,Billion,815,Million,42,Billion,6,Billion
+1422,Unibail-Rodamco-Westfield ,France,3,Billion,-2,Billion,59,Billion,12,Billion
+1423,Shenwan Hongyuan Group,China,3,Billion,559,Million,87,Billion,5,Billion
+1424,Invitation Homes,United States,3,Billion,541,Million,19,Billion,22,Billion
+1425,Sumitomo Chemical,Japan,17,Billion,-2,Billion,26,Billion,3,Billion
+1426,Toray Industries,Japan,17,Billion,151,Million,23,Billion,8,Billion
+1427,Alliant Energy,United States,4,Billion,698,Million,21,Billion,13,Billion
+1428,Transurban Group,Australia,3,Billion,151,Million,25,Billion,26,Billion
+1429,China Communications Services,China,21,Billion,508,Million,17,Billion,3,Billion
+1430,Sinotruk Hong Kong,China,12,Billion,749,Million,17,Billion,7,Billion
+1431,Commercial Bank of Qatar ,Qatar,3,Billion,752,Million,46,Billion,5,Billion
+1432,Hubei Biocause Pharmaceutical,China,12,Billion,-81,Million,39,Billion,2,Billion
+1433,China International Marine,China,19,Billion,44,Million,24,Billion,5,Billion
+1434,Secom,Japan,8,Billion,705,Million,14,Billion,14,Billion
+1435,ASM International,Netherlands,3,Billion,591,Million,5,Billion,35,Billion
+1436,Lundbergs,Sweden,2,Billion,683,Million,21,Billion,13,Billion
+1437,Avnet,United States,25,Billion,571,Million,12,Billion,5,Billion
+1438,Kao ,Japan,11,Billion,384,Million,12,Billion,21,Billion
+1439,Concordia Financial Group,Japan,3,Billion,463,Million,161,Billion,7,Billion
+1440,Globe Life,United States,6,Billion,1,Billion,29,Billion,8,Billion
+1441,Siam Cement,Thailand,14,Billion,335,Million,26,Billion,8,Billion
+1442,Deckers Outdoor,United States,4,Billion,724,Million,3,Billion,23,Billion
+1443,Suntory Beverage & Food,Japan,11,Billion,611,Million,13,Billion,11,Billion
+1444,WSP,Canada,11,Billion,418,Million,12,Billion,19,Billion
+1445,Wharf Real Estate Investment,Hong Kong,2,Billion,609,Million,31,Billion,11,Billion
+1446,BIM Birlesik Magazalar,Turkey,14,Billion,648,Million,5,Billion,9,Billion
+1447,Lear,United States,24,Billion,539,Million,15,Billion,7,Billion
+1448,SSAB,United States,11,Billion,1,Billion,11,Billion,6,Billion
+1449,Korea Investment Holdings,South Korea,4,Billion,566,Million,72,Billion,3,Billion
+1450,Hyundai Engineering,South Korea,24,Billion,425,Million,18,Billion,3,Billion
+1451,Charoen Pokphand Group,Thailand,17,Billion,-60,Million,25,Billion,5,Billion
+1452,Goodyear,United States,20,Billion,-645,Million,22,Billion,4,Billion
+1453,Military Commercial Joint Stock Bank,Vietnam,4,Billion,838,Million,36,Billion,5,Billion
+1454,Wintrust Financial,United States,4,Billion,630,Million,58,Billion,6,Billion
+1455,Jones Lang LaSalle,United States,21,Billion,301,Million,16,Billion,10,Billion
+1456,Carlisle Cos,United States,5,Billion,773,Million,7,Billion,20,Billion
+1457,Snap-on,United States,5,Billion,1,Billion,8,Billion,15,Billion
+1458,Fukuoka Financial Group,Japan,3,Billion,423,Million,216,Billion,5,Billion
+1459,CBOE Global Markets,United States,4,Billion,793,Million,8,Billion,19,Billion
+1460,Genmab,Denmark,3,Billion,793,Million,5,Billion,19,Billion
+1461,Booz Allen Hamilton Holding,United States,10,Billion,406,Million,7,Billion,20,Billion
+1462,Advanced Info Service,Thailand,6,Billion,874,Million,13,Billion,17,Billion
+1463,BorgWarner,United States,15,Billion,614,Million,14,Billion,9,Billion
+1464,New York Community Bancorp,United States,7,Billion,-2,Billion,113,Billion,3,Billion
+1465,Old Republic International,United States,8,Billion,715,Million,21,Billion,9,Billion
+1466,Hubbell,United States,6,Billion,724,Million,7,Billion,21,Billion
+1467,Lotte Chemical,South Korea,15,Billion,-193,Million,26,Billion,4,Billion
+1468,Moderna,United States,5,Billion,-6,Billion,17,Billion,51,Billion
+1469,Colruyt,Belgium,11,Billion,1,Billion,7,Billion,6,Billion
+1470,China Longyuan Power,China,5,Billion,885,Million,33,Billion,7,Billion
+1471,Hyatt Hotels,United States,7,Billion,684,Million,12,Billion,15,Billion
+1472,Bank of Qingdao,China,4,Billion,521,Million,86,Billion,2,Billion
+1473,SGS,Switzerland,7,Billion,615,Million,8,Billion,17,Billion
+1474,Cleveland-Cliffs,United States,22,Billion,389,Million,17,Billion,8,Billion
+1475,Bath & Body Works,United States,7,Billion,878,Million,6,Billion,11,Billion
+1476,Empire,Canada,23,Billion,563,Million,12,Billion,6,Billion
+1477,Ultrapar Participacoes,Brazil,26,Billion,529,Million,7,Billion,5,Billion
+1478,Vietnam Technological & Commercial Joint Stock Bank,Vietnam,3,Billion,819,Million,36,Billion,7,Billion
+1479,Guangzhou Rural Commercial Bank,China,6,Billion,377,Million,185,Billion,3,Billion
+1480,LG ,South Korea,5,Billion,874,Million,23,Billion,9,Billion
+1481,Check Point Software,Israel,2,Billion,840,Million,6,Billion,17,Billion
+1482,CIFI Holdings Group,China,10,Billion,-1,Billion,43,Billion,721,Million
+1483,Bank of Guizhou,China,4,Billion,518,Million,81,Billion,3,Billion
+1484,VeriSign,United States,2,Billion,833,Million,2,Billion,17,Billion
+1485,Vertiv Holdings,United States,7,Billion,404,Million,8,Billion,36,Billion
+1486,Ningxia Baofeng Energy Group,China,4,Billion,821,Million,10,Billion,17,Billion
+1487,Stora Enso,Finland,10,Billion,-500,Million,22,Billion,12,Billion
+1488,KPN,Netherlands,6,Billion,914,Million,14,Billion,15,Billion
+1489,Shenzhen Inovance Technology,China,5,Billion,670,Million,7,Billion,23,Billion
+1490,Chiba Bank,Japan,2,Billion,432,Million,141,Billion,6,Billion
+1491,China Development Bank Financial Leasing,China,4,Billion,585,Million,58,Billion,4,Billion
+1492,First Pacific,Hong Kong,11,Billion,501,Million,27,Billion,2,Billion
+1493,Prada,Italy,5,Billion,725,Million,8,Billion,20,Billion
+1494,Albemarle,United States,8,Billion,337,Million,19,Billion,15,Billion
+1495,Cosmo Energy Holdings,Japan,19,Billion,568,Million,15,Billion,4,Billion
+1496,Equifax,United States,5,Billion,558,Million,12,Billion,31,Billion
+1497,AppLovin,United States,4,Billion,594,Million,5,Billion,27,Billion
+1498,Knorr-Bremse,Germany,9,Billion,597,Million,10,Billion,13,Billion
+1499,Grupo Bolivar,Colombia,8,Billion,-9,Million,52,Billion,1,Billion
+1500,Brighthouse Financial,United States,3,Billion,-1,Billion,239,Billion,3,Billion
+1501,Bank of East Asia,Hong Kong,6,Billion,450,Million,110,Billion,4,Billion
+1502,Schaeffler,Germany,18,Billion,447,Million,19,Billion,5,Billion
+1503,Japan Airlines,Japan,11,Billion,661,Million,18,Billion,8,Billion
+1504,AECOM,United States,15,Billion,-14,Million,12,Billion,12,Billion
+1505,Shionogi,Japan,3,Billion,1,Billion,9,Billion,13,Billion
+1506,Unicharm,Japan,7,Billion,604,Million,8,Billion,19,Billion
+1507,Taishin Financial Holdings,Taiwan,4,Billion,463,Million,100,Billion,7,Billion
+1508,Bandai Namco Holdings,Japan,7,Billion,702,Million,6,Billion,13,Billion
+1509,Geberit,Switzerland,3,Billion,687,Million,4,Billion,21,Billion
+1510,Veeva Systems,United States,2,Billion,526,Million,6,Billion,34,Billion
+1511,"Hangzhou Binjiang Real Estate Group Co., Ltd.",China,10,Billion,367,Million,39,Billion,4,Billion
+1512,CrowdStrike,United States,3,Billion,89,Million,7,Billion,84,Billion
+1513,"Sumitomo Forestry Co.,",Japan,13,Billion,763,Million,13,Billion,8,Billion
+1514,Anhui Gujing Distillery,China,3,Billion,709,Million,6,Billion,20,Billion
+1515,News Corp,United States,10,Billion,208,Million,17,Billion,15,Billion
+1516,Banca Popolare di Sondrio,Italy,3,Billion,555,Million,61,Billion,4,Billion
+1517,SS&C Technologies,United States,6,Billion,639,Million,17,Billion,16,Billion
+1518,Ventas,United States,5,Billion,-73,Million,25,Billion,20,Billion
+1519,Wheaton Precious Metals,Canada,1,Billion,591,Million,7,Billion,26,Billion
+1520,CPFL Energia,Brazil,8,Billion,1,Billion,15,Billion,8,Billion
+1521,MTN Group,South Africa,12,Billion,222,Million,24,Billion,9,Billion
+1522,Skyworks Solutions,United States,5,Billion,855,Million,8,Billion,15,Billion
+1523,Sime Darby,Malaysia,12,Billion,820,Million,12,Billion,4,Billion
+1524,Group 1 Automotive,United States,18,Billion,577,Million,9,Billion,4,Billion
+1525,Dr. Sulaiman Al-Habib Medical Services Group,Saudi Arabia,3,Billion,562,Million,5,Billion,28,Billion
+1526,Nan Ya Plastics,Taiwan,8,Billion,213,Million,20,Billion,14,Billion
+1527,PTT Global Chemical,Thailand,18,Billion,9,Million,20,Billion,5,Billion
+1528,Sasol,South Africa,15,Billion,206,Million,23,Billion,5,Billion
+1529,Genworth Financial,United States,7,Billion,93,Million,71,Billion,3,Billion
+1530,Macy's,United States,24,Billion,105,Million,17,Billion,5,Billion
+1531,Falabella,Chile,13,Billion,198,Million,25,Billion,8,Billion
+1532,Fuyao Glass Industry Group,China,5,Billion,795,Million,8,Billion,16,Billion
+1533,U-Haul Holding,United States,6,Billion,637,Million,19,Billion,14,Billion
+1534,Tata Power Company,India,7,Billion,447,Million,17,Billion,17,Billion
+1535,West Pharmaceutical Services,United States,3,Billion,569,Million,4,Billion,26,Billion
+1536,World Fuel Services,United States,46,Billion,58,Million,7,Billion,2,Billion
+1537,Goodman Group,Australia,1,Billion,161,Million,16,Billion,44,Billion
+1538,United Therapeutics,United States,3,Billion,1,Billion,7,Billion,12,Billion
+1539,Banca Transilvania,Romania,3,Billion,686,Million,38,Billion,5,Billion
+1540,Qinghai Salt Lake Industry,China,3,Billion,924,Million,7,Billion,13,Billion
+1541,Shengjing Bank,China,6,Billion,106,Million,152,Billion,936,Million
+1542,Cadence Bank,United States,3,Billion,583,Million,48,Billion,5,Billion
+1543,NAURA Technology GroupLtd,China,3,Billion,618,Million,8,Billion,21,Billion
+1544,Wynn Resorts,United States,7,Billion,862,Million,14,Billion,11,Billion
+1545,Brambles,Australia,6,Billion,764,Million,9,Billion,13,Billion
+1546,Chesapeake Energy,United States,5,Billion,1,Billion,14,Billion,12,Billion
+1547,Iveco Group,Italy,18,Billion,248,Million,20,Billion,3,Billion
+1548,Mebuki Financial Group,Japan,2,Billion,300,Million,144,Billion,4,Billion
+1549,Royalty Pharma,United States,2,Billion,800,Million,16,Billion,12,Billion
+1550,Sonova Holding,Switzerland,4,Billion,678,Million,6,Billion,19,Billion
+1551,Chailease Holding,Taiwan,3,Billion,762,Million,30,Billion,8,Billion
+1552,Shanghai Commercial & Savings Bank,Taiwan,3,Billion,469,Million,76,Billion,7,Billion
+1553,Bank OZK,United States,2,Billion,696,Million,36,Billion,6,Billion
+1554,China Huarong Asset Management,China,5,Billion,212,Million,137,Billion,4,Billion
+1555,Popular,United States,4,Billion,486,Million,71,Billion,7,Billion
+1556,Fair Isaac,United States,2,Billion,481,Million,2,Billion,35,Billion
+1557,Chang Hwa Bank,Taiwan,3,Billion,425,Million,95,Billion,6,Billion
+1558,Zoom Video Communications,United States,5,Billion,638,Million,10,Billion,20,Billion
+1559,InterContinental Hotels,United Kingdom,5,Billion,751,Million,5,Billion,16,Billion
+1560,HMM,South Korea,7,Billion,819,Million,20,Billion,8,Billion
+1561,Migdal Insurance,Israel,8,Billion,114,Million,53,Billion,1,Billion
+1562,Shizuoka Financial Group,Japan,2,Billion,399,Million,107,Billion,6,Billion
+1563,Titan (India),India,6,Billion,422,Million,4,Billion,36,Billion
+1564,Waters,United States,3,Billion,604,Million,5,Billion,21,Billion
+1565,Moncler SpA,Italy,3,Billion,662,Million,6,Billion,19,Billion
+1566,Shenzhen Overseas,China,8,Billion,-912,Million,50,Billion,3,Billion
+1567,Old National Bank,United States,3,Billion,556,Million,50,Billion,6,Billion
+1568,Rajesh Exports,India,37,Billion,89,Million,2,Billion,1,Billion
+1569,Snowflake,United States,3,Billion,-836,Million,8,Billion,54,Billion
+1570,TMBThanachart Bank,Thailand,3,Billion,554,Million,50,Billion,5,Billion
+1571,Whirlpool,United States,19,Billion,400,Million,17,Billion,5,Billion
+1572,Watsco,United States,7,Billion,477,Million,4,Billion,19,Billion
+1573,Hellenic Petroleum,Greece,14,Billion,640,Million,9,Billion,3,Billion
+1574,Cullen/Frost Bankers,United States,3,Billion,550,Million,50,Billion,7,Billion
+1575,Harbin Bank,China,5,Billion,106,Million,115,Billion,465,Million
+1576,Alfa Laval,Sweden,6,Billion,614,Million,8,Billion,19,Billion
+1577,FCC,Spain,10,Billion,639,Million,19,Billion,7,Billion
+1578,Doosan,South Korea,15,Billion,-261,Million,22,Billion,2,Billion
+1579,Emera,Canada,5,Billion,514,Million,30,Billion,11,Billion
+1580,China Resources Beer (Holdings),Hong Kong,6,Billion,741,Million,10,Billion,15,Billion
+1581,Commercial Bank Dubai,United Arab Emirates,2,Billion,686,Million,35,Billion,5,Billion
+1582,JM Smucker,United States,8,Billion,-101,Million,20,Billion,12,Billion
+1583,RPM International,United States,7,Billion,557,Million,6,Billion,15,Billion
+1584,Pinnacle Financial Partners,United States,3,Billion,549,Million,49,Billion,6,Billion
+1585,AviChina Industry & Technology,China,12,Billion,348,Million,26,Billion,4,Billion
+1586,Virgin Money UK,United Kingdom,5,Billion,235,Million,112,Billion,4,Billion
+1587,C.H. Robinson,United States,17,Billion,303,Million,6,Billion,10,Billion
+1588,Hokuhoku Financial Group,Japan,1,Billion,159,Million,108,Billion,2,Billion
+1589,NOV,United States,9,Billion,986,Million,11,Billion,8,Billion
+1590,Unicaja Banco,Spain,3,Billion,288,Million,107,Billion,4,Billion
+1591,Chandra Asri Petrochemical,Indonesia,2,Billion,-76,Million,5,Billion,49,Billion
+1592,Stifel Financial,United States,5,Billion,529,Million,38,Billion,9,Billion
+1593,Haitong Securities,China,6,Billion,164,Million,106,Billion,7,Billion
+1594,Gen Digital,United States,4,Billion,616,Million,16,Billion,16,Billion
+1595,Covestro,Germany,15,Billion,-224,Million,15,Billion,10,Billion
+1596,Metro Group,Germany,33,Billion,-43,Million,12,Billion,2,Billion
+1597,Inner Mongolia Baotou Steel,China,10,Billion,40,Million,21,Billion,10,Billion
+1598,Palantir Technologies,United States,2,Billion,299,Million,5,Billion,49,Billion
+1599,Asbury Automotive Group,United States,15,Billion,568,Million,10,Billion,5,Billion
+1600,Fortum,Finland,7,Billion,-2,Billion,21,Billion,14,Billion
+1601,Mirae Asset Financial Group,South Korea,5,Billion,193,Million,101,Billion,3,Billion
+1602,Ayala Corp,Philippines,5,Billion,732,Million,29,Billion,7,Billion
+1603,Atlassian,United States,4,Billion,-163,Million,5,Billion,47,Billion
+1604,Jio Financial Services,India,224,Million,194,Million,17,Billion,27,Billion
+1605,PT Amman Mineral Internasional,Indonesia,2,Billion,252,Million,10,Billion,47,Billion
+1606,SLM,United States,3,Billion,753,Million,28,Billion,5,Billion
+1607,Trade Desk,United States,2,Billion,201,Million,5,Billion,46,Billion
+1608,Hachijuni Bank,Japan,1,Billion,256,Million,98,Billion,3,Billion
+1609,New Hope Liuhe,China,18,Billion,0,Million,18,Billion,6,Billion
+1610,SBA Communications,United States,3,Billion,555,Million,10,Billion,21,Billion
+1611,Electric Power Development,Japan,9,Billion,538,Million,23,Billion,3,Billion
+1612,Autoliv,Sweden,11,Billion,540,Million,8,Billion,10,Billion
+1613,United Natural Foods,United States,30,Billion,-115,Million,8,Billion,666,Million
+1614,Midea Real Estate Holding,China,11,Billion,131,Million,28,Billion,1,Billion
+1615,Anhui Construction Engineering Group,China,12,Billion,211,Million,23,Billion,1,Billion
+1616,Compal Electronics,Taiwan,30,Billion,260,Million,14,Billion,5,Billion
+1617,Avenue Supermarts,India,6,Billion,306,Million,3,Billion,37,Billion
+1618,Beijing Shougang,China,16,Billion,97,Million,19,Billion,4,Billion
+1619,BAC Holding International,Colombia,4,Billion,611,Million,36,Billion,3,Billion
+1620,Synovus,United States,4,Billion,466,Million,60,Billion,6,Billion
+1621,DCC,Ireland,25,Billion,410,Million,12,Billion,7,Billion
+1622,Link REIT,Hong Kong,2,Billion,-245,Million,32,Billion,12,Billion
+1623,Japan Securities,Japan,346,Million,56,Million,91,Billion,907,Million
+1624,Iron Mountain,United States,6,Billion,194,Million,18,Billion,24,Billion
+1625,SKF Group,Sweden,10,Billion,586,Million,11,Billion,10,Billion
+1626,D'Ieteren,Belgium,9,Billion,546,Million,8,Billion,11,Billion
+1627,Thai Beverage,Thailand,8,Billion,752,Million,14,Billion,9,Billion
+1628,Zheshang Development Group,China,29,Billion,96,Million,7,Billion,782,Million
+1629,Altice USA,United States,9,Billion,6,Million,32,Billion,1,Billion
+1630,Kyushu Financial Group,Japan,2,Billion,183,Million,89,Billion,3,Billion
+1631,Nishi-nippon Financial Holdings,Japan,1,Billion,163,Million,89,Billion,2,Billion
+1632,Rakuten Bank,Japan,948,Million,238,Million,89,Billion,3,Billion
+1633,Starwood Property Trust,United States,2,Billion,434,Million,66,Billion,7,Billion
+1634,Tapestry,United States,7,Billion,881,Million,14,Billion,10,Billion
+1635,UCB,Belgium,6,Billion,371,Million,17,Billion,26,Billion
+1636,Monolithic Power Systems,United States,2,Billion,410,Million,3,Billion,36,Billion
+1637,Bank of Zhengzhou,China,4,Billion,230,Million,88,Billion,1,Billion
+1638,Sinotrans Ltd.,China,14,Billion,568,Million,11,Billion,4,Billion
+1639,Insurance Australia Group,Australia,8,Billion,512,Million,17,Billion,10,Billion
+1640,North Pacific Bank,Japan,884,Million,89,Million,88,Billion,1,Billion
+1641,Huaibei Mining Holdings,China,10,Billion,795,Million,12,Billion,7,Billion
+1642,Lennox International,United States,5,Billion,616,Million,3,Billion,18,Billion
+1643,Airports of Thailand,Thailand,2,Billion,481,Million,5,Billion,26,Billion
+1644,Cencosud,Chile,20,Billion,157,Million,16,Billion,6,Billion
+1645,Valley National Bancorp,United States,4,Billion,448,Million,61,Billion,4,Billion
+1646,Formosa Chemicals,Taiwan,11,Billion,345,Million,18,Billion,10,Billion
+1647,Hirogin Holdings,Japan,1,Billion,192,Million,85,Billion,2,Billion
+1648,Gold Fields,South Africa,5,Billion,701,Million,8,Billion,15,Billion
+1649,Zhejiang Expressway Co. Ltd.,China,2,Billion,707,Million,28,Billion,4,Billion
+1650,Columbia Bank,United States,3,Billion,487,Million,52,Billion,4,Billion
+1651,Datadog,United States,2,Billion,115,Million,4,Billion,40,Billion
+1652,Companhia Energetica de Minas Gerais,Brazil,7,Billion,1,Billion,11,Billion,6,Billion
+1653,Liberty Global,United Kingdom,8,Billion,-3,Billion,41,Billion,7,Billion
+1654,W. P. Carey,United States,2,Billion,573,Million,18,Billion,13,Billion
+1655,Yamaguchi Financial,Japan,1,Billion,174,Million,83,Billion,2,Billion
+1656,Jiangsu Zhongnan Construction Group,China,9,Billion,-729,Million,31,Billion,297,Million
+1657,Thai Oil,Thailand,13,Billion,589,Million,12,Billion,3,Billion
+1658,B3,Brazil,2,Billion,809,Million,10,Billion,12,Billion
+1659,Gap,United States,15,Billion,502,Million,11,Billion,8,Billion
+1660,Novonesis A/S,Denmark,3,Billion,439,Million,4,Billion,30,Billion
+1661,Power Assets Holdings,Hong Kong,165,Million,767,Million,12,Billion,13,Billion
+1662,Sumitomo Metal Mining,Japan,10,Billion,405,Million,20,Billion,9,Billion
+1663,Commercial International Bank,Egypt,5,Billion,967,Million,21,Billion,5,Billion
+1664,ARC Resources,Canada,4,Billion,895,Million,9,Billion,11,Billion
+1665,Asia Commercial Bank,Vietnam,3,Billion,673,Million,30,Billion,4,Billion
+1666,Shenzhou International Group Holdings,China,4,Billion,643,Million,7,Billion,16,Billion
+1667,AGC,Japan,14,Billion,158,Million,20,Billion,8,Billion
+1668,Adecco Group,Switzerland,26,Billion,332,Million,13,Billion,7,Billion
+1669,Avolta,Switzerland,14,Billion,97,Million,20,Billion,6,Billion
+1670,Graphic Packaging,United States,9,Billion,681,Million,11,Billion,9,Billion
+1671,BayWa,Germany,25,Billion,-106,Million,14,Billion,932,Million
+1672,Daou Data,South Korea,8,Billion,51,Million,40,Billion,340,Million
+1673,Brookfield Business,United States,10,Billion,513,Million,21,Billion,2,Billion
+1674,Dai Nippon Printing,Japan,10,Billion,767,Million,13,Billion,7,Billion
+1675,Skechers USA,United States,8,Billion,592,Million,8,Billion,10,Billion
+1676,EQT AB,Sweden,2,Billion,142,Million,10,Billion,38,Billion
+1677,Jiangxi Bank,China,3,Billion,101,Million,78,Billion,618,Million
+1678,Jiangsu Changshu Rural Commercial Bank,China,2,Billion,480,Million,51,Billion,3,Billion
+1679,Heico,United States,3,Billion,425,Million,7,Billion,30,Billion
+1680,Ansys,United States,2,Billion,435,Million,7,Billion,29,Billion
+1681,Kyoto Financial Group,Japan,918,Million,218,Million,77,Billion,1,Billion
+1682,Skanska,Sweden,16,Billion,461,Million,15,Billion,8,Billion
+1683,Arab Bank,Jordan,3,Billion,536,Million,40,Billion,4,Billion
+1684,Segro,United Kingdom,931,Million,-315,Million,22,Billion,16,Billion
+1685,Incyte,United States,4,Billion,745,Million,7,Billion,13,Billion
+1686,Crown Holdings,United States,12,Billion,415,Million,15,Billion,10,Billion
+1687,Seres Group,China,8,Billion,-224,Million,9,Billion,18,Billion
+1688,Ampol ,Australia,25,Billion,365,Million,9,Billion,6,Billion
+1689,Medipal Holdings,Japan,25,Billion,287,Million,12,Billion,3,Billion
+1690,Wuestenrot & Wuerttembergische,Germany,6,Billion,277,Million,74,Billion,1,Billion
+1691,Daishi Hokuetsu Financial Group,Japan,1,Billion,147,Million,74,Billion,1,Billion
+1692,CoStar Group,United States,3,Billion,294,Million,9,Billion,36,Billion
+1693,Jindal Steel & Power,India,6,Billion,717,Million,9,Billion,12,Billion
+1694,Host Hotels & Resorts,United States,5,Billion,721,Million,13,Billion,13,Billion
+1695,Ceconomy,Germany,24,Billion,120,Million,11,Billion,2,Billion
+1696,Eurazeo,France,2,Billion,2,Billion,11,Billion,6,Billion
+1697,Hengyi Petrochemical ,China,19,Billion,114,Million,15,Billion,4,Billion
+1698,LIC Housing Finance,India,3,Billion,575,Million,35,Billion,4,Billion
+1699,Adani Green Energy,India,1,Billion,133,Million,11,Billion,35,Billion
+1700,DGB Financial Group,South Korea,4,Billion,233,Million,72,Billion,1,Billion
+1701,Lasertec,Japan,2,Billion,463,Million,2,Billion,25,Billion
+1702,China Grand Automotive Services,China,19,Billion,-9,Million,16,Billion,2,Billion
+1703,Gunma Bank,Japan,1,Billion,215,Million,72,Billion,3,Billion
+1704,Bajaj Holdings & Investment,India,207,Million,878,Million,8,Billion,11,Billion
+1705,Celltrion,South Korea,2,Billion,298,Million,15,Billion,29,Billion
+1706,"Chugin Financial Group,Inc.",Japan,1,Billion,148,Million,71,Billion,2,Billion
+1707,Bank of Jiujiang,Hong Kong,3,Billion,59,Million,71,Billion,2,Billion
+1708,KION Group,Germany,13,Billion,374,Million,21,Billion,6,Billion
+1709,Rite Aid,United States,24,Billion,-2,Billion,7,Billion,7,Million
+1710,Orpea,France,6,Billion,2,Billion,15,Billion,2,Billion
+1711,Focus Media Information Technology,China,2,Billion,687,Million,4,Billion,14,Billion
+1712,CTP,Netherlands,786,Million,1,Billion,17,Billion,8,Billion
+1713,Umicore,Belgium,20,Billion,416,Million,11,Billion,5,Billion
+1714,Warner Music Group,United States,6,Billion,522,Million,9,Billion,17,Billion
+1715,SBI Sumishin Net Bank,Japan,819,Million,172,Million,71,Billion,3,Billion
+1716,Toppan Printing,Japan,12,Billion,515,Million,16,Billion,8,Billion
+1717,Everbright Securities,China,2,Billion,550,Million,37,Billion,4,Billion
+1718,Parkland,Canada,23,Billion,288,Million,10,Billion,5,Billion
+1719,Shanghai Tunnel Engineering Co. Ltd.,China,11,Billion,409,Million,22,Billion,3,Billion
+1720,Taiwan Business Bank,Taiwan,2,Billion,316,Million,70,Billion,4,Billion
+1721,Telia,Sweden,9,Billion,28,Million,21,Billion,10,Billion
+1722,77 Bank,Japan,905,Million,206,Million,69,Billion,2,Billion
+1723,Kawasaki Kisen Kaisha,Japan,7,Billion,725,Million,14,Billion,11,Billion
+1724,IDEX,United States,3,Billion,578,Million,6,Billion,17,Billion
+1725,Indorama Ventures,Thailand,15,Billion,-325,Million,17,Billion,4,Billion
+1726,Kingfisher,United Kingdom,16,Billion,430,Million,15,Billion,6,Billion
+1727,Braskem,Brazil,14,Billion,-1,Billion,19,Billion,3,Billion
+1728,Lotte Shopping,South Korea,11,Billion,140,Million,23,Billion,1,Billion
+1729,Gaming And Leisure Properties,United States,2,Billion,725,Million,12,Billion,13,Billion
+1730,Quilter,United Kingdom,6,Billion,52,Million,68,Billion,2,Billion
+1731,Bendigo & Adelaide Bank,Australia,3,Billion,352,Million,68,Billion,4,Billion
+1732,Daou Technology,South Korea,7,Billion,153,Million,40,Billion,620,Million
+1733,BOK Financial,United States,3,Billion,448,Million,50,Billion,6,Billion
+1734,Marks & Spencer,United Kingdom,15,Billion,497,Million,11,Billion,7,Billion
+1735,Berry Global Group,United States,12,Billion,504,Million,16,Billion,7,Billion
+1736,WPG Holdings,Taiwan,23,Billion,298,Million,11,Billion,5,Billion
+1737,Shandong Gold Mining,China,8,Billion,253,Million,19,Billion,11,Billion
+1738,China Merchants Port Holdings,Hong Kong,2,Billion,796,Million,22,Billion,6,Billion
+1739,PT Adaro Energy Indonesia,Indonesia,6,Billion,2,Billion,11,Billion,6,Billion
+1740,Advantest,Japan,3,Billion,431,Million,4,Billion,26,Billion
+1741,Ooredoo Q.P.S.C,Qatar,6,Billion,815,Million,16,Billion,9,Billion
+1742,Pandora,Denmark,4,Billion,701,Million,4,Billion,13,Billion
+1743,Bank of Queensland,Australia,3,Billion,178,Million,66,Billion,3,Billion
+1744,Jinke Property Group,China,8,Billion,-1,Billion,30,Billion,1,Billion
+1745,Air Lease ,United States,3,Billion,594,Million,31,Billion,6,Billion
+1746,Latour Ab Investment,Sweden,2,Billion,552,Million,6,Billion,18,Billion
+1747,Haidilao International Holding,China,6,Billion,635,Million,4,Billion,14,Billion
+1748,Oshkosh,United States,10,Billion,689,Million,10,Billion,8,Billion
+1749,Luzerner Kantonalbank,Switzerland,1,Billion,315,Million,66,Billion,4,Billion
+1750,Akamai Technologies,United States,4,Billion,626,Million,10,Billion,15,Billion
+1751,Qingdao Rural Commercial Bank,China,3,Billion,352,Million,66,Billion,2,Billion
+1752,South State,United States,2,Billion,469,Million,45,Billion,6,Billion
+1753,HubSpot,United States,2,Billion,-132,Million,3,Billion,31,Billion
+1754,Domino's Pizza,United States,5,Billion,540,Million,2,Billion,18,Billion
+1755,Nitto Denko,Japan,6,Billion,710,Million,8,Billion,11,Billion
+1756,Carlyle Group,United States,3,Billion,-644,Million,21,Billion,16,Billion
+1757,WT Microelectronics,Taiwan,21,Billion,147,Million,9,Billion,4,Billion
+1758,Zenith Bank,Nigeria,3,Billion,981,Million,19,Billion,690,Million
+1759,CP Axtra,Thailand,14,Billion,254,Million,15,Billion,9,Billion
+1760,General Insurance Corporation Of India,India,6,Billion,828,Million,21,Billion,7,Billion
+1761,EMS-Chemie Holding,Switzerland,2,Billion,509,Million,3,Billion,20,Billion
+1762,F.N.B.,United States,2,Billion,460,Million,46,Billion,5,Billion
+1763,Nitori Holdings,Japan,6,Billion,598,Million,8,Billion,13,Billion
+1764,Bank of Lanzhou,China,3,Billion,261,Million,64,Billion,2,Billion
+1765,"LG Innotek Co.,",South Korea,16,Billion,470,Million,8,Billion,4,Billion
+1766,Drax Group plc,United Kingdom,10,Billion,699,Million,8,Billion,3,Billion
+1767,AVIC Capital,China,3,Billion,-32,Million,63,Billion,4,Billion
+1768,Jointown Pharmaceutical Group,China,21,Billion,300,Million,14,Billion,4,Billion
+1769,Yes Bank,India,4,Billion,155,Million,49,Billion,8,Billion
+1770,Yunnan Copper Co. Ltd.,China,21,Billion,216,Million,7,Billion,4,Billion
+1771,Basler Kantonalbank,Switzerland,2,Billion,189,Million,63,Billion,370,Million
+1772,Axis Capital Holdings,Bermuda,6,Billion,592,Million,30,Billion,6,Billion
+1773,Bausch Health Companies,Canada,9,Billion,-453,Million,27,Billion,3,Billion
+1774,Nova Ljubljanska Banka,Slovenia,2,Billion,619,Million,28,Billion,3,Billion
+1775,Zhongliang Holdings ,China,9,Billion,-586,Million,26,Billion,131,Million
+1776,Pentair,United Kingdom,4,Billion,626,Million,7,Billion,14,Billion
+1777,CapitaMall Trust,Singapore,1,Billion,642,Million,19,Billion,10,Billion
+1778,Samsung SDS,South Korea,10,Billion,532,Million,9,Billion,9,Billion
+1779,FIBI Holdings,Israel,3,Billion,284,Million,62,Billion,2,Billion
+1780,Mondi,United Kingdom,8,Billion,653,Million,11,Billion,9,Billion
+1781,RiseSun Real Estate Development,China,9,Billion,150,Million,27,Billion,1,Billion
+1782,"Iyogin Holdings,Inc.",Japan,1,Billion,273,Million,61,Billion,3,Billion
+1783,Bank of Xi'an,China,2,Billion,347,Million,61,Billion,2,Billion
+1784,JB Financial Group,South Korea,3,Billion,435,Million,48,Billion,2,Billion
+1785,Mid-america Apartment Communities,United States,2,Billion,560,Million,12,Billion,16,Billion
+1786,Burlington Stores,United States,10,Billion,340,Million,8,Billion,12,Billion
+1787,Alfresa Holdings,Japan,20,Billion,204,Million,10,Billion,3,Billion
+1788,Pinterest,United States,3,Billion,148,Million,4,Billion,29,Billion
+1789,Rollins,United States,3,Billion,441,Million,3,Billion,22,Billion
+1790,Goneo GroupClass A,China,2,Billion,567,Million,3,Billion,16,Billion
+1791,SÃ¼dzucker,Germany,11,Billion,602,Million,11,Billion,3,Billion
+1792,Adris grupa d.d. Pref.,Croatia,8,Billion,446,Million,24,Billion,1,Billion
+1793,Mobileye Global,Israel,2,Billion,-166,Million,15,Billion,23,Billion
+1794,E-L Financial,Canada,3,Billion,872,Million,19,Billion,3,Billion
+1795,Logitech International,Switzerland,4,Billion,611,Million,4,Billion,14,Billion
+1796,Navient,United States,5,Billion,190,Million,59,Billion,2,Billion
+1797,Grupo Comercial Chedraui SAB de CV Class B,Mexico,15,Billion,463,Million,9,Billion,7,Billion
+1798,NH Investment & Securities,South Korea,2,Billion,453,Million,44,Billion,3,Billion
+1799,Liberty Media Corporation Series A Liberty Formula One,United States,3,Billion,371,Million,11,Billion,28,Billion
+1800,Hertz Global Holdings,United States,9,Billion,234,Million,24,Billion,786,Million
+1801,MicroStrategy,United States,490,Million,-85,Million,6,Billion,28,Billion
+1802,Fibra Uno,Mexico,2,Billion,804,Million,20,Billion,6,Billion
+1803,Novatek Microelectronics Corp.,Taiwan,4,Billion,746,Million,3,Billion,11,Billion
+1804,Redeia Corporacion,Spain,2,Billion,746,Million,16,Billion,10,Billion
+1805,Samvardhana Motherson International,India,11,Billion,242,Million,9,Billion,11,Billion
+1806,Nomura Research Institute,Japan,5,Billion,551,Million,6,Billion,16,Billion
+1807,Align Technology,United States,4,Billion,462,Million,6,Billion,20,Billion
+1808,Bureau Veritas,France,6,Billion,545,Million,7,Billion,14,Billion
+1809,Essex Property Trust,United States,2,Billion,525,Million,13,Billion,17,Billion
+1810,JA Solar Technology,China,11,Billion,554,Million,15,Billion,7,Billion
+1811,Bluescope Steel,Australia,12,Billion,564,Million,10,Billion,6,Billion
+1812,Henry Schein,United States,13,Billion,388,Million,10,Billion,10,Billion
+1813,Deutsche Pfandbriefbank,Germany,3,Billion,74,Million,56,Billion,837,Million
+1814,Hera,Italy,14,Billion,423,Million,16,Billion,5,Billion
+1815,Harel Insurance Investments & Financial Services,Israel,7,Billion,132,Million,39,Billion,2,Billion
+1816,KakaoBank,South Korea,2,Billion,276,Million,45,Billion,8,Billion
+1817,Pinnacle West,United States,5,Billion,522,Million,25,Billion,9,Billion
+1818,Founder Securities,China,1,Billion,332,Million,32,Billion,10,Billion
+1819,Tongling Nonferrous Metals,China,19,Billion,351,Million,11,Billion,7,Billion
+1820,Weihai City Commercial Bank,China,3,Billion,244,Million,55,Billion,2,Billion
+1821,Bharat Electronics Limited,India,2,Billion,432,Million,4,Billion,22,Billion
+1822,Ricoh,Japan,16,Billion,306,Million,15,Billion,5,Billion
+1823,Xiamen Bank,China,2,Billion,376,Million,54,Billion,2,Billion
+1824,MongoDB,United States,2,Billion,-177,Million,3,Billion,27,Billion
+1825,Phoenix Holdings,Israel,6,Billion,211,Million,43,Billion,3,Billion
+1826,Bank Of Gansu,China,2,Billion,92,Million,55,Billion,676,Million
+1827,Cosan,Brazil,8,Billion,219,Million,29,Billion,5,Billion
+1828,Zscaler,United States,2,Billion,-139,Million,4,Billion,27,Billion
+1829,Bank Muscat,Oman,2,Billion,500,Million,36,Billion,5,Billion
+1830,Manpower,United States,19,Billion,51,Million,9,Billion,4,Billion
+1831,Diebold Nixdorf,Germany,4,Billion,2,Billion,4,Billion,4,Billion
+1832,Clorox,United States,7,Billion,240,Million,6,Billion,17,Billion
+1833,Metalurgica Gerdau,Brazil,13,Billion,436,Million,15,Billion,2,Billion
+1834,Snap,United States,5,Billion,-1,Billion,7,Billion,27,Billion
+1835,TopBuild,United States,5,Billion,631,Million,5,Billion,13,Billion
+1836,Dentsu,Japan,9,Billion,-118,Million,24,Billion,7,Billion
+1837,Orient Securities,China,3,Billion,355,Million,54,Billion,4,Billion
+1838,CSPC Pharmaceutical Group,China,4,Billion,830,Million,7,Billion,10,Billion
+1839,LS Corp,South Korea,18,Billion,301,Million,14,Billion,3,Billion
+1840,Central Bank of India,India,4,Billion,322,Million,54,Billion,6,Billion
+1841,Yara International,Norway,15,Billion,-35,Million,16,Billion,8,Billion
+1842,Bank of Maharashtra,India,3,Billion,492,Million,37,Billion,6,Billion
+1843,Shimizu,Japan,14,Billion,119,Million,17,Billion,4,Billion
+1844,Healthpeak Properties,United States,2,Billion,193,Million,21,Billion,14,Billion
+1845,Kawasaki Heavy Industries,Japan,13,Billion,176,Million,18,Billion,6,Billion
+1846,Tradeweb Markets,United States,1,Billion,403,Million,7,Billion,24,Billion
+1847,Hyakugo Bank,Japan,799,Million,99,Million,54,Billion,1,Billion
+1848,Indus Towers,India,4,Billion,729,Million,7,Billion,11,Billion
+1849,Kesko,Finland,13,Billion,512,Million,9,Billion,7,Billion
+1850,China Power International Development,Hong Kong,6,Billion,378,Million,43,Billion,6,Billion
+1851,Kakao,South Korea,6,Billion,-770,Million,19,Billion,15,Billion
+1852,Trelleborg Group,Sweden,3,Billion,914,Million,6,Billion,9,Billion
+1853,Steel Authority of India,India,13,Billion,375,Million,16,Billion,8,Billion
+1854,CAPITEC,South Africa,3,Billion,565,Million,11,Billion,15,Billion
+1855,First Quantum Minerals,Canada,6,Billion,-1,Billion,24,Billion,12,Billion
+1856,Almarai,Saudi Arabia,5,Billion,562,Million,9,Billion,15,Billion
+1857,Aurubis,Germany,18,Billion,128,Million,8,Billion,4,Billion
+1858,Banque Centrale Populaire,Morocco,3,Billion,343,Million,53,Billion,6,Billion
+1859,Nexi S.p.A.,Italy,6,Billion,-1,Billion,29,Billion,9,Billion
+1860,Enstar Group,Bermuda,1,Billion,813,Million,19,Billion,5,Billion
+1861,Shiga Bank,Japan,805,Million,110,Million,53,Billion,1,Billion
+1862,Tryg,Denmark,6,Billion,542,Million,16,Billion,12,Billion
+1863,Erie Indemnity,United States,3,Billion,484,Million,3,Billion,19,Billion
+1864,Ramsay Health Care,Australia,11,Billion,572,Million,14,Billion,8,Billion
+1865,Var Energi ASA,Norway,7,Billion,507,Million,22,Billion,8,Billion
+1866,Viva Energy Group,Australia,18,Billion,3,Million,7,Billion,4,Billion
+1867,United Bank for Africa,Nigeria,3,Billion,807,Million,19,Billion,501,Million
+1868,Zall Smart Commerce Group,China,18,Billion,7,Million,9,Billion,598,Million
+1869,Federal Bank,India,3,Billion,469,Million,38,Billion,5,Billion
+1870,Cloudflare,United States,1,Billion,-181,Million,3,Billion,26,Billion
+1871,MBH Bank Plc.,Hungary,4,Billion,519,Million,32,Billion,7,Billion
+1872,PVH,United States,9,Billion,664,Million,11,Billion,7,Billion
+1873,Aareal Bank,Germany,3,Billion,45,Million,52,Billion,2,Billion
+1874,Kohl's,United States,18,Billion,317,Million,14,Billion,3,Billion
+1875,Samsung Securities,South Korea,3,Billion,415,Million,45,Billion,3,Billion
+1876,Momentum Metropolitan Holdings,South Africa,7,Billion,224,Million,36,Billion,2,Billion
+1877,Jinshang Bank,China,2,Billion,283,Million,51,Billion,1,Billion
+1878,Take-Two Interactive Software,United States,5,Billion,-4,Billion,12,Billion,25,Billion
+1879,DLF,India,776,Million,329,Million,7,Billion,25,Billion
+1880,Johnson Matthey,United Kingdom,17,Billion,217,Million,8,Billion,4,Billion
+1881,Aozora Bank,Japan,2,Billion,-345,Million,50,Billion,2,Billion
+1882,Guangzhou Baiyunshan Pharmaceutical Holdings,China,11,Billion,573,Million,11,Billion,5,Billion
+1883,Teradyne,United States,3,Billion,429,Million,3,Billion,21,Billion
+1884,Mercuries & Associates,Taiwan,4,Billion,-26,Million,50,Billion,549,Million
+1885,Rentokil Initial,United Kingdom,7,Billion,474,Million,14,Billion,14,Billion
+1886,Juroku  Financial Group,Japan,870,Million,134,Million,50,Billion,1,Billion
+1887,Franco-Nevada,Canada,1,Billion,-490,Million,6,Billion,25,Billion
+1888,Daito Trust Construction,Japan,12,Billion,517,Million,7,Billion,7,Billion
+1889,nVent Electric,United Kingdom,3,Billion,578,Million,6,Billion,13,Billion
+1890,Banco Davivienda ,Colombia,6,Billion,-224,Million,46,Billion,3,Billion
+1891,Digital China Group,China,17,Billion,167,Million,6,Billion,3,Billion
+1892,Informa plc,United Kingdom,4,Billion,521,Million,15,Billion,15,Billion
+1893,Jiangxi Zhengbang Technology,China,857,Million,1,Billion,3,Billion,4,Billion
+1894,Seagate Technology,Ireland,6,Billion,-270,Million,7,Billion,20,Billion
+1895,Dr. Reddy's Laboratories,India,3,Billion,673,Million,5,Billion,12,Billion
+1896,Avantor,United States,7,Billion,260,Million,13,Billion,17,Billion
+1897,St. Galler Kantonalbank,Switzerland,1,Billion,231,Million,49,Billion,3,Billion
+1898,Essential Utilities,United States,2,Billion,573,Million,17,Billion,11,Billion
+1899,Hanwa,Japan,17,Billion,266,Million,8,Billion,2,Billion
+1900,Yunnan Baiyao Group,China,6,Billion,597,Million,8,Billion,13,Billion
+1901,Bank of Cyprus Holdings,Cyprus,2,Billion,570,Million,27,Billion,2,Billion
+1902,San-In Godo Bank,Japan,777,Million,116,Million,49,Billion,1,Billion
+1903,China Fortune Land Development,China,4,Billion,-1,Billion,48,Billion,775,Million
+1904,Teleperformance,France,9,Billion,651,Million,13,Billion,7,Billion
+1905,Inventec,Taiwan,17,Billion,202,Million,8,Billion,6,Billion
+1906,OneMain Holdings,United States,5,Billion,617,Million,24,Billion,6,Billion
+1907,Organon,United States,6,Billion,1,Billion,12,Billion,6,Billion
+1908,FactSet Research Systems,United States,2,Billion,489,Million,4,Billion,17,Billion
+1909,Varun Beverages,India,2,Billion,261,Million,2,Billion,24,Billion
+1910,Steris,Ireland,5,Billion,378,Million,11,Billion,23,Billion
+1911,NIO,China,8,Billion,-3,Billion,17,Billion,11,Billion
+1912,Open House,Japan,8,Billion,688,Million,9,Billion,4,Billion
+1913,TFI International,Canada,8,Billion,486,Million,7,Billion,11,Billion
+1914,BEKB-BCBE,Switzerland,818,Million,195,Million,48,Billion,3,Billion
+1915,Sabesp,Brazil,5,Billion,729,Million,13,Billion,11,Billion
+1916,Scentre Group,Australia,2,Billion,116,Million,24,Billion,11,Billion
+1917,IHH Healthcare,Malaysia,5,Billion,647,Million,11,Billion,12,Billion
+1918,Tokyo Kiraboshi Financial Group,Japan,840,Million,177,Million,48,Billion,848,Million
+1919,Shanxi Xishan Coal & Electricity Power Co. Ltd.,China,7,Billion,732,Million,13,Billion,9,Billion
+1920,Wharf (Holdings),Hong Kong,2,Billion,121,Million,26,Billion,11,Billion
+1921,Cameco,Canada,2,Billion,174,Million,7,Billion,23,Billion
+1922,CVR Energy,United States,9,Billion,656,Million,4,Billion,3,Billion
+1923,Guangzhou R&F,China,5,Billion,-3,Billion,47,Billion,640,Million
+1924,Suzuken,Japan,17,Billion,201,Million,8,Billion,2,Billion
+1925,Logan Property Holdings,China,7,Billion,-1,Billion,35,Billion,588,Million
+1926,Schibsted ASA,Norway,2,Billion,1,Billion,5,Billion,7,Billion
+1927,Taylor Morrison Home,United States,8,Billion,768,Million,9,Billion,6,Billion
+1928,Barry Callebaut,Switzerland,9,Billion,481,Million,10,Billion,10,Billion
+1929,NIPPON EXPRESS HOLDINGS,Japan,16,Billion,170,Million,14,Billion,4,Billion
+1930,FMC,United States,4,Billion,1,Billion,12,Billion,8,Billion
+1931,Ralph Lauren,United States,7,Billion,588,Million,7,Billion,11,Billion
+1932,ALFA,Mexico,16,Billion,-629,Million,13,Billion,4,Billion
+1933,Commercial Metals,United States,8,Billion,680,Million,7,Billion,7,Billion
+1934,Taisei,Japan,12,Billion,279,Million,17,Billion,7,Billion
+1935,Hologic,United States,4,Billion,467,Million,9,Billion,18,Billion
+1936,Signet Jewelers,Bermuda,7,Billion,810,Million,7,Billion,4,Billion
+1937,Inner Mongolia Yitai Coal,China,7,Billion,880,Million,12,Billion,6,Billion
+1938,Masraf Al Rayan,Qatar,2,Billion,392,Million,44,Billion,6,Billion
+1939,Saputo,Canada,13,Billion,246,Million,11,Billion,9,Billion
+1940,Samsara,United States,937,Million,-287,Million,2,Billion,23,Billion
+1941,China Gas Holdings,Hong Kong,11,Billion,366,Million,19,Billion,6,Billion
+1942,Delek US Holdings,United States,16,Billion,-77,Million,7,Billion,2,Billion
+1943,EFG International,Switzerland,3,Billion,337,Million,46,Billion,4,Billion
+1944,Zhangzhou Pientzehuang Pharmaceutical,China,2,Billion,419,Million,3,Billion,20,Billion
+1945,Sumec Corporation,China,16,Billion,145,Million,8,Billion,2,Billion
+1946,Ipsen,France,3,Billion,697,Million,7,Billion,11,Billion
+1947,Manila Electric,Philippines,8,Billion,707,Million,11,Billion,7,Billion
+1948,Public Power,Greece,9,Billion,414,Million,21,Billion,5,Billion
+1949,Cholamandalam Investment and Finance,India,2,Billion,413,Million,19,Billion,13,Billion
+1950,Yunnan Yuntianhua,China,9,Billion,615,Million,8,Billion,5,Billion
+1951,PTC,United States,2,Billion,288,Million,6,Billion,22,Billion
+1952,UMB Financial,United States,3,Billion,368,Million,45,Billion,4,Billion
+1953,arGEN-X,Netherlands,1,Billion,-295,Million,5,Billion,22,Billion
+1954,Sharp,Japan,16,Billion,-1,Billion,11,Billion,3,Billion
+1955,Kyndryl Holdings,United States,16,Billion,-340,Million,11,Billion,6,Billion
+1956,Lotte,South Korea,12,Billion,-68,Million,18,Billion,1,Billion
+1957,Aichi Financial Group,Japan,587,Million,57,Million,45,Billion,838,Million
+1958,A.O. Smith,United States,4,Billion,577,Million,3,Billion,13,Billion
+1959,NMDC,India,3,Billion,779,Million,4,Billion,10,Billion
+1960,AltaGas,Canada,9,Billion,470,Million,18,Billion,7,Billion
+1961,Cogent Communications,United States,1,Billion,1,Billion,3,Billion,3,Billion
+1962,Axon Enterprise,United States,2,Billion,262,Million,4,Billion,22,Billion
+1963,Nanto Bank,Japan,571,Million,83,Million,45,Billion,685,Million
+1964,Aier Eye Hospital Group,China,3,Billion,485,Million,4,Billion,17,Billion
+1965,XPO,United States,8,Billion,242,Million,8,Billion,13,Billion
+1966,Toho Bank,Japan,399,Million,36,Million,45,Billion,602,Million
+1967,Wisetech Global,Australia,623,Million,147,Million,2,Billion,22,Billion
+1968,Celsius Holdings,United States,1,Billion,263,Million,2,Billion,22,Billion
+1969,Clal Insurance Enterprises ,Israel,5,Billion,60,Million,44,Billion,1,Billion
+1970,Buzzi Unicem,Italy,5,Billion,1,Billion,8,Billion,8,Billion
+1971,Canadian Tire Corporation,Canada,12,Billion,209,Million,17,Billion,6,Billion
+1972,Ingredion,United States,8,Billion,668,Million,7,Billion,8,Billion
+1973,Ogaki Kyoritsu Bank,Japan,601,Million,66,Million,44,Billion,569,Million
+1974,Euronav,Belgium,1,Billion,1,Billion,4,Billion,4,Billion
+1975,Saudi Investment Bank,Saudi Arabia,2,Billion,435,Million,36,Billion,4,Billion
+1976,Nordson,United States,3,Billion,493,Million,5,Billion,16,Billion
+1977,H World Group,China,3,Billion,524,Million,9,Billion,14,Billion
+1978,Straumann Holding,Switzerland,3,Billion,274,Million,4,Billion,21,Billion
+1979,Ningbo Jintian Copper (Group),China,16,Billion,77,Million,4,Billion,1,Billion
+1980,Abb India,India,1,Billion,176,Million,1,Billion,21,Billion
+1981,China Merchants Energy Shipping,China,4,Billion,710,Million,9,Billion,10,Billion
+1982,Fluor,United States,16,Billion,304,Million,7,Billion,7,Billion
+1983,AmBank Group,Malaysia,2,Billion,388,Million,42,Billion,3,Billion
+1984,Equatorial Energia,Brazil,8,Billion,444,Million,20,Billion,7,Billion
+1985,Uniqa,Austria,7,Billion,327,Million,32,Billion,3,Billion
+1986,Delivery Hero,Germany,11,Billion,-3,Billion,12,Billion,10,Billion
+1987,Kimco Realty,United States,2,Billion,351,Million,20,Billion,13,Billion
+1988,Puig Brands,Spain,5,Billion,503,Million,9,Billion,15,Billion
+1989,Zhejiang Construction Investment Group,China,13,Billion,36,Million,16,Billion,1,Billion
+1990,Keiyo Bank,Japan,474,Million,75,Million,43,Billion,634,Million
+1991,Sun Communities,United States,3,Billion,153,Million,17,Billion,15,Billion
+1992,Roblox,United States,3,Billion,-1,Billion,6,Billion,21,Billion
+1993,China Merchants Port Group,China,2,Billion,524,Million,28,Billion,7,Billion
+1994,DraftKings,United States,4,Billion,-548,Million,4,Billion,21,Billion
+1995,Guangdong Construction Engineering Group,China,11,Billion,209,Million,18,Billion,2,Billion
+1996,Angang Steel,China,15,Billion,-665,Million,14,Billion,2,Billion
+1997,Sichuan Chuantou Energy,China,201,Million,633,Million,9,Billion,11,Billion
+1998,Vietnam Prosperity Joint-sock Commercial Bank,Vietnam,4,Billion,460,Million,33,Billion,6,Billion
+1999,Adient,United States,15,Billion,158,Million,9,Billion,3,Billion
+2000,CapitaLand Investment,Singapore,2,Billion,135,Million,26,Billion,10,Billion
+2001,Shanxi Lu'an Environmental,China,5,Billion,813,Million,12,Billion,9,Billion
